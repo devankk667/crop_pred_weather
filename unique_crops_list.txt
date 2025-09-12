@@ -1,0 +1,54 @@
+arecanut
+arhar/tur
+bajra
+banana
+barley
+black pepper
+cardamom
+cashewnut
+castor seed
+coconut
+coriander
+cotton(lint)
+cowpea(lobia)
+dry chillies
+garlic
+ginger
+gram
+groundnut
+guar seed
+horse-gram
+jowar
+jute
+khesari
+linseed
+maize
+masoor
+mesta
+moong(green gram)
+moth
+niger seed
+onion
+other  rabi pulses
+other cereals
+other kharif pulses
+other oilseeds
+other summer pulses
+peas & beans (pulses)
+potato
+ragi
+rapeseed &mustard
+rice
+safflower
+sannhamp
+sesamum
+small millets
+soyabean
+sugarcane
+sunflower
+sweet potato
+tapioca
+tobacco
+turmeric
+urad
+wheat

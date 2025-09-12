@@ -1,0 +1,1001 @@
+district_name,state_name,year,season,crop,crop_area,crop_production,yield,crop_type,avg_temp,total_precip,avg_humidity,avg_windspeed,district_x,state_x,data_points,district_y,state_y,loamy_alfisols_level,ustalf/ustolls_level,loamy_alfisol_level,vertisols_level,vertic_soils_level,inceptisols_level,verrtisols_level,orthids_level,sandy_alfisol_level,sandy_alfisols_level,vertic_sols_level,udupts/udalfs_level,vrtic_soils_level,verti_sols_level,pssaments_level,vertic_osils_level,pssamnets_level,udolls/udalfs_level,innceptisols_level,crop_code,area_unit,production_unit,yield_unit
+Balrampur,Chhattisgarh,2019,kharif,castor seed,7.0,3.0,0.43,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1002,Hectare,Tonnes,Tonnes/Hectare
+East Garo Hills,Meghalaya,2017,kharif,tapioca,1278.0,7267.0,5.69,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,702,Hectare,Tonnes,Tonnes/Hectare
+Rajnandgaon,Chhattisgarh,2019,kharif,small millets,1741.0,788.0,0.45,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108,Hectare,Tonnes,Tonnes/Hectare
+Farrukhabad,Uttar Pradesh,2016,rabi,garlic,1273.0,8096.0,6.36,Spices,20.985027,29.84,34.500492,1.6101639,Farrukhabad,Uttar Pradesh,183.0,Farrukhabad,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Kendujhar,Odisha,2017,zaid,wheat,25.0,57.3,2.29,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Bengaluru Urban,Karnataka,2018,kharif,onion,16.0,121.0,7.56,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Bijapur,Chhattisgarh,2016,rabi,other  rabi pulses,9.0,3.0,0.33,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Sivaganga,Tamil Nadu,2015,rabi,moong(green gram),1.0,1.0,1.0,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Sirohi,Rajasthan,2015,rabi,small millets,1047.0,1571.0,1.5,Cereals,19.713417,4.65,29.210417,1.8013333,Sirohi,Rajasthan,120.0,Sirohi,Rajasthan,,,,,,,,,,,,,,,,,high_extreme,,,108,Hectare,Tonnes,Tonnes/Hectare
+Villupuram,Tamil Nadu,2018,kharif,onion,176.0,1541.0,8.76,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Kolhapur,Maharashtra,2017,rabi,gram,5400.0,4600.0,0.85,Pulses,23.397417,123.98,56.249397,2.0424175,Kolhapur,Maharashtra,182.0,Kolhapur,Maharashtra,,,,moderate,moderate,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Raipur,Chhattisgarh,2015,rabi,wheat,2991.0,5756.0,1.92,Cereals,22.245054,63.3,59.71192,1.2814835,Raipur,Chhattisgarh,182.0,Raipur,Chhattisgarh,low,moderate,,very_low,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Khammam,Telangana,2016,rabi,gram,44.0,57.0,1.3,Pulses,23.911,3.4,57.534084,1.821,Khammam,Telangana,120.0,Khammam,Telangana,,,,extreme,,,,,,moderate,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Koppal,Karnataka,2019,kharif,sesamum,6544.0,3954.0,0.6,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Dhalai,Tripura,2016,rabi,other  rabi pulses,48.0,40.0,0.83,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Yamunanagar,Haryana,2019,whole_year,sugarcane,19900.0,1.5602e+06,78.4,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Balaghat,Madhya Pradesh,2018,whole_year,sweet potato,130.0,2770.0,21.31,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Nandurbar,Maharashtra,2016,rabi,wheat,18400.0,37700.0,2.05,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Mandya,Karnataka,2015,rabi,other  rabi pulses,81.0,54.0,0.67,Pulses,22.956583,156.74,63.545918,2.0885,Mandya,Karnataka,120.0,Mandya,Karnataka,,,,,,,,,high_extreme,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Barabanki,Uttar Pradesh,2015,kharif,rice,186626.0,513408.0,2.75,Cereals,31.39771,607.31,49.55299,2.1002803,Barabanki,Uttar Pradesh,214.0,Barabanki,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Jalore,Rajasthan,2018,kharif,other kharif pulses,36.0,16.0,0.44,Pulses,31.477757,297.86,44.371918,3.0717757,Jalore,Rajasthan,214.0,Jalore,Rajasthan,,,,,,,,,,,,,,,high_extreme,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Sidhi,Madhya Pradesh,2018,kharif,bajra,6.0,3.0,0.5,Cereals,29.008785,919.79,60.335747,2.3716822,Sidhi,Madhya Pradesh,214.0,Sidhi,Madhya Pradesh,,extreme,,,low,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Deoria,Uttar Pradesh,2016,kharif,sugarcane,8801.0,550943.0,62.6,Sugar,30.914534,993.06,59.7871,2.0888784,Deoria,Uttar Pradesh,214.0,Deoria,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Visakhapatanam,Andhra Pradesh,2016,kharif,onion,49.0,1160.0,23.67,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Kabirdham,Chhattisgarh,2017,rabi,gram,72571.0,56016.0,0.77,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Tuensang,Nagaland,2018,rabi,peas & beans (pulses),830.0,920.0,1.11,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Jhunjhunu,Rajasthan,2016,rabi,other oilseeds,431.0,160.0,0.37,Oilseeds,20.704699,33.16,29.211475,1.574317,Jhunjhunu,Rajasthan,183.0,Jhunjhunu,Rajasthan,,,,,,moderate,,,,,,,,,,,moderate,,,1088,Hectare,Tonnes,Tonnes/Hectare
+Latehar,Jharkhand,2015,rabi,peas & beans (pulses),138.0,62.0,0.45,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Davangere,Karnataka,2015,rabi,horse-gram,416.0,273.0,0.66,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Pashchim Medinipur,West Bengal,2019,kharif,rice,31725.0,75914.0,2.39,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Karnal,Haryana,2019,rabi,peas & beans (pulses),205.0,205.0,1.0,Pulses,17.260714,142.84,54.182858,1.803077,Karnal,Haryana,182.0,Karnal,Haryana,,,,,,high_extreme,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Narsinghpur,Madhya Pradesh,2017,kharif,small millets,40.0,40.0,1.0,Cereals,29.521215,878.44,58.77145,2.3762617,Narsinghpur,Madhya Pradesh,214.0,Narsinghpur,Madhya Pradesh,,,,high_extreme,low,,,,,,,,,,,,,,,108,Hectare,Tonnes,Tonnes/Hectare
+Ariyalur,Tamil Nadu,2017,kharif,groundnut,3171.0,10467.0,3.3,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Kanchipuram,Tamil Nadu,2019,kharif,bajra,1.0,3.0,3.0,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Papum Pare,Arunachal Pradesh,2017,kharif,urad,51.0,40.0,0.78,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Surguja,Chhattisgarh,2019,rabi,barley,87.0,61.0,0.7,Cereals,16.370667,43.7,63.69725,1.4200833,Surguja,Chhattisgarh,120.0,Surguja,Chhattisgarh,,high_extreme,,,,,,,,,,,,,,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Etawah,Uttar Pradesh,2019,rabi,coriander,17.0,12.0,0.71,Spices,19.285,74.27,56.067856,1.5074725,Etawah,Uttar Pradesh,182.0,Etawah,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Kolhapur,Maharashtra,2018,whole_year,tobacco,460.0,803.0,1.75,Drugs And Narcotics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
+Mancherial,Telangana,2019,kharif,cotton(lint),73114.0,210425.0,2.88,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Koraput,Odisha,2019,kharif,other kharif pulses,11580.0,5190.0,0.45,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Karimnagar,Telangana,2015,rabi,rice,54053.0,172699.0,3.19,Cereals,26.108736,66.14,47.950054,1.7535714,Karimnagar,Telangana,182.0,Karimnagar,Telangana,,,,low,,,,,,,extreme,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Banda,Uttar Pradesh,2018,rabi,masoor,29824.0,29496.0,0.99,Pulses,21.750769,10.74,41.75022,1.4905494,Banda,Uttar Pradesh,182.0,Banda,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Kohima,Nagaland,2019,kharif,sugarcane,230.0,10023.0,43.58,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Dima Hasao,Assam,2016,whole_year,ginger,4346.0,39188.0,9.02,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Kadapa,Andhra Pradesh,2016,rabi,small millets,397.0,168.0,0.42,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108,Hectare,Tonnes,Tonnes/Hectare
+Kendujhar,Odisha,2017,zaid,maize,3.0,9.4,3.13,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Tumakuru,Karnataka,2018,rabi,horse-gram,7468.0,3193.0,0.43,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Bangalore Rural,Karnataka,2015,whole_year,sweet potato,16.0,254.0,15.88,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Lalitpur,Uttar Pradesh,2018,rabi,barley,9798.0,32529.0,3.32,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Amroha,Uttar Pradesh,2017,rabi,wheat,90058.0,333755.0,3.71,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Gir Somnath,Gujarat,2016,whole_year,garlic,635.0,3247.0,5.11,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Adilabad,Telangana,2018,rabi,tobacco,75.0,202.0,2.69,Drugs And Narcotics,22.884583,23.96,40.969166,1.61525,Adilabad,Telangana,120.0,Adilabad,Telangana,,,,,moderate,,,,moderate,,,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
+Chatra,Jharkhand,2019,kharif,rice,29523.0,98902.0,3.35,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Nawada,Bihar,2017,rabi,rapeseed &mustard,393.0,361.0,0.92,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Darbhanga,Bihar,2015,rabi,barley,8.0,10.0,1.25,Cereals,19.419,16.8,49.738167,1.5365,Darbhanga,Bihar,120.0,Darbhanga,Bihar,,,,,,high_extreme,,,,,,,,,,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Adilabad,Telangana,2019,rabi,groundnut,404.0,948.0,2.35,Oilseeds,21.51925,25.83,57.982918,1.6791667,Adilabad,Telangana,120.0,Adilabad,Telangana,,,,,moderate,,,,moderate,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Korea,Chhattisgarh,2018,rabi,masoor,134.0,24.0,0.18,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Villupuram,Tamil Nadu,2018,rabi,moong(green gram),779.0,319.0,0.41,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Munger,Bihar,2015,whole_year,tobacco,5.0,9.0,1.8,Drugs And Narcotics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
+Firozepur,Punjab,2017,kharif,moong(green gram),500.0,600.0,1.2,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Bilaspur,Chhattisgarh,2019,whole_year,jowar,4.0,6.0,1.5,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Dhanbad,Jharkhand,2019,kharif,groundnut,265.0,318.0,1.2,Oilseeds,29.25514,1183.41,67.208694,2.131869,Dhanbad,Jharkhand,214.0,Dhanbad,Jharkhand,,high_extreme,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Koppal,Karnataka,2017,kharif,cotton(lint),3364.0,10301.0,3.06,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Harda,Madhya Pradesh,2019,kharif,jowar,28.0,32.0,1.14,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Badgam,Jammu And Kashmir,2018,rabi,wheat,973.0,667.2,0.69,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Tehri Garhwal,Uttarakhand,2015,rabi,peas & beans (pulses),104.0,56.0,0.54,Pulses,7.70875,70.56,52.247917,1.35675,Tehri Garhwal,Uttarakhand,120.0,Tehri Garhwal,Uttarakhand,,,,,,,,,,,,,,,,,,high_extreme,,213,Hectare,Tonnes,Tonnes/Hectare
+Dhubri,Assam,2019,rabi,linseed,250.0,162.0,0.65,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Khandwa,Madhya Pradesh,2015,whole_year,sesamum,3000.0,1000.0,0.33,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Kondagaon,Chhattisgarh,2017,kharif,sannhamp,22.0,14.0,0.64,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1104,Hectare,Tonnes,Tonnes/Hectare
+Damoh,Madhya Pradesh,2016,rabi,peas & beans (pulses),42000.0,19000.0,0.45,Pulses,18.797083,27.23,45.038166,1.42175,Damoh,Madhya Pradesh,120.0,Damoh,Madhya Pradesh,,,,moderate,extreme,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Uttar Kashi,Uttarakhand,2020,kharif,other cereals,320.0,164.0,0.51,Cereals,29.942991,966.88,65.2643,1.9886916,Uttar Kashi,Uttarakhand,214.0,Uttar Kashi,Uttarakhand,,,,,,,,,,,,,,,,,,high_extreme,,188,Hectare,Tonnes,Tonnes/Hectare
+Jalaun,Uttar Pradesh,2017,rabi,potato,448.0,5351.0,11.94,Vegetable,19.4245,14.71,35.475834,1.50025,Jalaun,Uttar Pradesh,120.0,Jalaun,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Sonitpur,Assam,2015,kharif,castor seed,7.0,3.0,0.43,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1002,Hectare,Tonnes,Tonnes/Hectare
+Dhamtari,Chhattisgarh,2018,whole_year,coriander,59.0,25.0,0.42,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Rajkot,Gujarat,2019,whole_year,garlic,4346.0,31468.0,7.24,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Kamrup Metro,Assam,2018,rabi,wheat,5.0,7.0,1.4,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Aurangabad,Maharashtra,2017,rabi,maize,7800.0,18500.0,2.37,Cereals,21.482666,1.84,43.252,1.7373333,Aurangabad,Maharashtra,120.0,Aurangabad,Maharashtra,,,,low,high_extreme,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Surat,Gujarat,2015,kharif,moth,813.0,387.0,0.48,Pulses,28.89056,1296.91,72.76495,3.178645,Surat,Gujarat,214.0,Surat,Gujarat,,,,extreme,low,,,low,,,,,,,,,,,,209,Hectare,Tonnes,Tonnes/Hectare
+East Garo Hills,Meghalaya,2019,rabi,castor seed,16.0,16.0,1.0,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1002,Hectare,Tonnes,Tonnes/Hectare
+Gautam Buddha Nagar,Uttar Pradesh,2017,kharif,sugarcane,1812.0,161446.0,89.1,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Bishnupur,Manipur,2016,whole_year,potato,2470.0,20250.0,8.2,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Kendujhar,Odisha,2015,zaid,urad,21.0,8.1,0.39,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Gir Somnath,Gujarat,2018,rabi,maize,190.0,485.0,2.55,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Tiruvannamalai,Tamil Nadu,2018,whole_year,black pepper,26.0,6.0,0.23,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,501,Hectare,Tonnes,Tonnes/Hectare
+Chikkaballapura,Karnataka,2019,rabi,cowpea(lobia),16.0,8.0,0.5,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,207,Hectare,Tonnes,Tonnes/Hectare
+Jabalpur,Madhya Pradesh,2018,whole_year,banana,188.04,6769.44,36.0,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,606,Hectare,Tonnes,Tonnes/Hectare
+Deoria,Uttar Pradesh,2016,kharif,rice,133390.0,279319.0,2.09,Cereals,30.914534,993.06,59.7871,2.0888784,Deoria,Uttar Pradesh,214.0,Deoria,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Amravati,Maharashtra,2016,kharif,moong(green gram),29733.0,22336.0,0.75,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Chamoli,Uttarakhand,2018,kharif,ragi,9437.0,12968.0,1.37,Cereals,11.142664,691.92,71.38575,1.8080841,Chamoli,Uttarakhand,214.0,Chamoli,Uttarakhand,,,,,,,,,,,,,,,,,,high_extreme,,105,Hectare,Tonnes,Tonnes/Hectare
+Balangir,Odisha,2017,zaid,wheat,3.0,15.0,5.0,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Gondia,Maharashtra,2016,zaid,maize,600.0,900.0,1.5,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Shamli,Uttar Pradesh,2018,zaid,onion,11.0,130.0,11.82,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Vellore,Tamil Nadu,2017,rabi,urad,1224.0,826.0,0.67,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Betul,Madhya Pradesh,2015,rabi,rapeseed &mustard,1000.0,1000.0,1.0,Oilseeds,20.474167,46.91,44.52133,1.8095,Betul,Madhya Pradesh,120.0,Betul,Madhya Pradesh,,,,,high_extreme,,very_low,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Nizamabad,Telangana,2015,kharif,soyabean,109589.0,116931.0,1.07,Oilseeds,29.199253,533.24,58.778927,2.7171962,Nizamabad,Telangana,214.0,Nizamabad,Telangana,,,,very_low,high_extreme,,,,,,,,,,,,,,,1009,Hectare,Tonnes,Tonnes/Hectare
+Navsari,Gujarat,2018,kharif,groundnut,11.0,15.0,1.36,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+East Singhbum,Jharkhand,2019,kharif,arhar/tur,8200.0,9020.0,1.1,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Meerut,Uttar Pradesh,2015,rabi,gram,17.0,10.0,0.59,Pulses,16.741083,43.99,40.5815,1.79175,Meerut,Uttar Pradesh,120.0,Meerut,Uttar Pradesh,,,,,,,,,,,,,,,,,,high_extreme,,201,Hectare,Tonnes,Tonnes/Hectare
+Tiruppur,Tamil Nadu,2017,whole_year,turmeric,251.0,1167.0,4.65,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,504,Hectare,Tonnes,Tonnes/Hectare
+Latur,Maharashtra,2017,kharif,arhar/tur,111300.0,131400.0,1.18,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Balaghat,Madhya Pradesh,2019,rabi,rapeseed &mustard,2346.0,3064.0,1.31,Oilseeds,20.898188,140.59,56.994396,1.570934,Balaghat,Madhya Pradesh,182.0,Balaghat,Madhya Pradesh,,,,very_low,high_extreme,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+West Godavari,Andhra Pradesh,2017,rabi,urad,25132.0,20558.0,0.82,Pulses,26.23912,136.61,73.3361,2.8312087,West Godavari,Andhra Pradesh,182.0,West Godavari,Andhra Pradesh,,,,,,,,moderate,moderate,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Sirohi,Rajasthan,2019,kharif,urad,3293.0,2291.0,0.7,Pulses,29.241636,744.39,58.503082,2.411215,Sirohi,Rajasthan,214.0,Sirohi,Rajasthan,,,,,,,,,,,,,,,,,high_extreme,,,203,Hectare,Tonnes,Tonnes/Hectare
+Gandhinagar,Gujarat,2018,rabi,gram,594.0,807.0,1.36,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Pondicherry,Puducherry,2018,zaid,groundnut,13.0,42.0,3.23,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Sidhi,Madhya Pradesh,2016,rabi,linseed,8000.0,3000.0,0.38,Oilseeds,18.184,25.52,49.64192,1.4408333,Sidhi,Madhya Pradesh,120.0,Sidhi,Madhya Pradesh,,extreme,,,low,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Jammu,Jammu And Kashmir,2016,rabi,cowpea(lobia),160.0,87.8,0.55,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,207,Hectare,Tonnes,Tonnes/Hectare
+Maharajganj,Uttar Pradesh,2019,zaid,maize,384.0,947.0,2.47,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Tiruchirappalli,Tamil Nadu,2019,rabi,groundnut,1653.0,4348.0,2.63,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Sant Ravidas Nagar,Uttar Pradesh,2019,kharif,moong(green gram),11.0,3.0,0.27,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Siwan,Bihar,2016,rabi,potato,1603.0,19637.0,12.25,Vegetable,21.32552,63.9,49.7006,1.6411475,Siwan,Bihar,183.0,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Devbhumi Dwarka,Gujarat,2018,rabi,gram,253.0,403.0,1.59,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Jhansi,Uttar Pradesh,2018,kharif,ginger,57.0,271.0,4.75,Spices,30.951496,907.92,55.100327,2.3582711,Jhansi,Uttar Pradesh,214.0,Jhansi,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Shravasti,Uttar Pradesh,2017,kharif,dry chillies,2.0,2.0,1.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Uttara Kannada,Karnataka,2019,zaid,maize,811.0,3210.0,3.96,Cereals,28.428411,199.36,69.552246,2.2045794,Uttara Kannada,Karnataka,107.0,Uttara Kannada,Karnataka,,,,,moderate,,,low,,,,low,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Sidhi,Madhya Pradesh,2017,rabi,other cereals,4100.0,2560.0,0.62,Cereals,19.054583,12.14,45.253582,1.4793333,Sidhi,Madhya Pradesh,120.0,Sidhi,Madhya Pradesh,,extreme,,,low,,,,,,,,,,,,,,,188,Hectare,Tonnes,Tonnes/Hectare
+Hanumangarh,Rajasthan,2018,whole_year,sugarcane,27.0,2253.0,83.44,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Lucknow,Uttar Pradesh,2016,rabi,rapeseed &mustard,4714.0,4742.0,1.01,Oilseeds,21.275793,61.68,37.255245,1.5787432,Lucknow,Uttar Pradesh,183.0,Lucknow,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Chandigarh,Chandigarh,2018,rabi,wheat,546.0,2730.0,5.0,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Kachchh,Gujarat,2017,kharif,bajra,25412.0,35659.0,1.4,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Nanded,Maharashtra,2017,rabi,safflower,4900.0,3700.0,0.76,Oilseeds,23.35675,1.42,38.0445,1.7850833,Nanded,Maharashtra,120.0,Nanded,Maharashtra,,,,moderate,extreme,,,,,,,,,,,,,,,1008,Hectare,Tonnes,Tonnes/Hectare
+Davangere,Karnataka,2016,rabi,other  rabi pulses,63.0,2.0,0.03,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Ri Bhoi,Meghalaya,2015,zaid,potato,26.0,180.0,6.92,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Amreli,Gujarat,2018,rabi,small millets,274.0,587.0,2.14,Cereals,25.742033,2.63,33.297417,1.9532417,Amreli,Gujarat,182.0,Amreli,Gujarat,,,,,,,,high_extreme,,,,,,,,,,,,108,Hectare,Tonnes,Tonnes/Hectare
+Shimla,Himachal Pradesh,2019,kharif,arhar/tur,9.0,5.0,0.56,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Shimla,Himachal Pradesh,2016,kharif,groundnut,7.0,4.0,0.57,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Belagavi,Karnataka,2016,kharif,bajra,10150.0,6133.0,0.6,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Tapi,Gujarat,2017,zaid,rice,1856.0,4945.0,2.66,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Mahoba,Uttar Pradesh,2018,rabi,wheat,81887.0,230571.0,2.82,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Belagavi,Karnataka,2018,whole_year,coriander,242.0,216.0,0.89,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Kendrapara,Odisha,2018,rabi,potato,132.0,2533.3,19.19,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Khowai,Tripura,2017,rabi,peas & beans (pulses),352.0,294.0,0.84,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Nizamabad,Telangana,2018,kharif,moong(green gram),364.0,229.0,0.63,Pulses,28.931122,576.08,59.099487,2.844813,Nizamabad,Telangana,214.0,Nizamabad,Telangana,,,,very_low,high_extreme,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Bageshwar,Uttarakhand,2019,kharif,other kharif pulses,1592.0,1430.0,0.9,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Chittorgarh,Rajasthan,2018,kharif,bajra,66.0,59.0,0.89,Cereals,29.206028,590.03,53.48916,2.6845794,Chittorgarh,Rajasthan,214.0,Chittorgarh,Rajasthan,,,,,high_extreme,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Balangir,Odisha,2017,kharif,urad,1389.0,432.0,0.31,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Bemetara,Chhattisgarh,2017,kharif,rice,169282.0,178631.0,1.06,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Srinagar,Jammu And Kashmir,2015,kharif,other kharif pulses,120.0,31.3,0.26,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Panna,Madhya Pradesh,2017,rabi,peas & beans (pulses),9470.0,11440.0,1.21,Pulses,21.34934,11.5,43.740055,1.5615385,Panna,Madhya Pradesh,182.0,Panna,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Deoghar,Jharkhand,2019,rabi,gram,10106.0,14755.0,1.46,Pulses,17.967833,45.2,64.92375,1.6866666,Deoghar,Jharkhand,120.0,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Bahraich,Uttar Pradesh,2019,rabi,turmeric,85.0,120.0,1.41,Spices,18.953627,148.27,61.375328,1.5960989,Bahraich,Uttar Pradesh,182.0,Bahraich,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,504,Hectare,Tonnes,Tonnes/Hectare
+Azamgarh,Uttar Pradesh,2016,kharif,sweet potato,7.0,78.0,11.14,Vegetable,31.04383,978.56,59.439438,2.1100466,Azamgarh,Uttar Pradesh,214.0,Azamgarh,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Purulia,West Bengal,2016,rabi,moth,16.0,15.0,0.94,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,209,Hectare,Tonnes,Tonnes/Hectare
+Dhamtari,Chhattisgarh,2018,rabi,potato,5.0,70.0,14.0,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Mandya,Karnataka,2018,whole_year,tobacco,9.0,7.0,0.78,Drugs And Narcotics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
+Mansa,Punjab,2015,kharif,moong(green gram),400.0,190.0,0.48,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Siwan,Bihar,2017,rabi,masoor,455.0,474.0,1.04,Pulses,19.3735,2.67,47.01642,1.6104167,Siwan,Bihar,120.0,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Amritsar,Punjab,2019,rabi,rapeseed &mustard,2000.0,3100.0,1.55,Oilseeds,16.643902,231.54,57.16599,1.2892308,Amritsar,Punjab,182.0,Amritsar,Punjab,,,,,,high_extreme,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Kasaragod,Kerala,2017,whole_year,banana,687.0,6783.0,9.87,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,606,Hectare,Tonnes,Tonnes/Hectare
+Osmanabad,Maharashtra,2016,kharif,jowar,14100.0,6300.0,0.45,Cereals,27.678738,753.17,61.825935,3.1935046,Osmanabad,Maharashtra,214.0,Osmanabad,Maharashtra,,,,,high_extreme,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Haridwar,Uttarakhand,2017,whole_year,turmeric,3.0,6.0,2.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,504,Hectare,Tonnes,Tonnes/Hectare
+Nizamabad,Telangana,2015,rabi,other  rabi pulses,49.0,20.0,0.41,Pulses,25.634726,58.82,44.01978,2.0202746,Nizamabad,Telangana,182.0,Nizamabad,Telangana,,,,very_low,high_extreme,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Sagar,Madhya Pradesh,2018,kharif,arhar/tur,6121.0,5876.0,0.96,Pulses,29.074299,1120.89,58.259533,2.603271,Sagar,Madhya Pradesh,214.0,Sagar,Madhya Pradesh,,,,moderate,moderate,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Nagaur,Rajasthan,2019,rabi,gram,130331.0,152915.0,1.17,Pulses,16.678833,32.67,43.8495,1.8106667,Nagaur,Rajasthan,120.0,Nagaur,Rajasthan,,,,,,very_low,,,,,,,,,,,high_extreme,,,201,Hectare,Tonnes,Tonnes/Hectare
+Nalgonda,Telangana,2017,rabi,cowpea(lobia),133.0,173.0,1.3,Pulses,25.211924,79.82,58.999836,1.6258792,Nalgonda,Telangana,182.0,Nalgonda,Telangana,,,,,,,,,high_extreme,,,,,,,,,,,207,Hectare,Tonnes,Tonnes/Hectare
+Kangra,Himachal Pradesh,2016,kharif,rice,33155.0,49974.0,1.51,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Pashchim Medinipur,West Bengal,2018,kharif,sunflower,12.0,14.0,1.17,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1007,Hectare,Tonnes,Tonnes/Hectare
+Tumakuru,Karnataka,2018,kharif,other kharif pulses,2705.0,1669.0,0.62,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Mahesana,Gujarat,2017,kharif,sesamum,2833.0,1998.0,0.71,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Tonk,Rajasthan,2019,rabi,masoor,336.0,571.0,1.7,Pulses,19.099615,27.0,51.96676,1.4174725,Tonk,Rajasthan,182.0,Tonk,Rajasthan,,,,,,high_extreme,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Tuticorin,Tamil Nadu,2018,rabi,ragi,32.0,115.0,3.59,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,105,Hectare,Tonnes,Tonnes/Hectare
+Sangareddy,Telangana,2019,rabi,coriander,9.0,8.0,0.89,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Faizabad,Uttar Pradesh,2017,rabi,potato,4213.0,102603.0,24.35,Vegetable,20.463242,42.52,50.378902,1.6236264,Faizabad,Uttar Pradesh,182.0,Faizabad,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Kolasib,Mizoram,2017,rabi,other  rabi pulses,135.0,199.0,1.47,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Saran,Bihar,2015,zaid,rice,236.0,564.0,2.39,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Porbandar,Gujarat,2017,kharif,castor seed,775.0,1868.0,2.41,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1002,Hectare,Tonnes,Tonnes/Hectare
+Malappuram,Kerala,2017,zaid,rice,2456.0,9768.0,3.98,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Bhadradri,Telangana,2016,kharif,cotton(lint),37975.0,128445.0,3.38,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Begusarai,Bihar,2017,rabi,peas & beans (pulses),1466.0,1727.0,1.18,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Jorhat,Assam,2017,rabi,masoor,285.0,205.0,0.72,Pulses,21.387691,412.76,72.70621,0.9882967,Jorhat,Assam,182.0,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Kokrajhar,Assam,2019,kharif,sesamum,499.0,377.0,0.76,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Shahdol,Madhya Pradesh,2016,whole_year,coriander,667.0,466.9,0.7,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Yadagiri,Karnataka,2019,whole_year,coriander,9.0,4.0,0.44,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Haridwar,Uttarakhand,2020,kharif,moong(green gram),1.0,1.0,1.0,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Birbhum,West Bengal,2015,rabi,wheat,33807.0,92511.0,2.74,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Sitamarhi,Bihar,2016,rabi,masoor,2460.0,2357.0,0.96,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Dibrugarh,Assam,2018,kharif,jute,10.0,116.0,11.6,Fiber Crops,27.930561,1974.41,76.15781,0.50098133,Dibrugarh,Assam,214.0,Dibrugarh,Assam,,,,,,,,,,,,,,,,,,,,1102,Hectare,Tonnes,Tonnes/Hectare
+Vijayapura,Karnataka,2019,rabi,cotton(lint),570.0,411.0,0.72,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Chandel,Manipur,2018,kharif,cowpea(lobia),153.0,171.0,1.12,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,207,Hectare,Tonnes,Tonnes/Hectare
+Nizamabad,Telangana,2015,rabi,coriander,125.0,89.0,0.71,Spices,24.44825,24.52,41.1305,2.06175,Nizamabad,Telangana,120.0,Nizamabad,Telangana,,,,very_low,high_extreme,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Hamirpur,Uttar Pradesh,2019,rabi,onion,81.0,1155.0,14.26,Vegetable,19.440989,86.6,58.42379,1.446978,Hamirpur,Uttar Pradesh,182.0,Hamirpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Faridabad,Haryana,2018,whole_year,garlic,25.0,250.0,10.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Golaghat,Assam,2017,whole_year,sweet potato,98.0,360.0,3.67,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Suryapet,Telangana,2016,rabi,urad,504.0,412.0,0.82,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Kalahandi,Odisha,2019,kharif,groundnut,255.0,293.0,1.15,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Mainpuri,Uttar Pradesh,2015,rabi,wheat,161770.0,539018.0,3.33,Cereals,20.585934,139.83,41.342197,1.5869781,Mainpuri,Uttar Pradesh,182.0,Mainpuri,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Kalahandi,Odisha,2016,kharif,urad,308.0,164.2,0.53,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Kurnool,Andhra Pradesh,2019,rabi,rice,38714.0,151604.0,3.92,Cereals,25.813131,137.91,61.147198,2.1173077,Kurnool,Andhra Pradesh,182.0,Kurnool,Andhra Pradesh,,,,,moderate,,,,extreme,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Belagavi,Karnataka,2015,zaid,sunflower,914.0,777.0,0.85,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1007,Hectare,Tonnes,Tonnes/Hectare
+Bhind,Madhya Pradesh,2016,rabi,peas & beans (pulses),9000.0,13000.0,1.44,Pulses,21.747322,34.04,33.957706,1.4762295,Bhind,Madhya Pradesh,183.0,Bhind,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Nizamabad,Telangana,2015,rabi,wheat,814.0,1890.0,2.32,Cereals,24.44825,24.52,41.1305,2.06175,Nizamabad,Telangana,120.0,Nizamabad,Telangana,,,,very_low,high_extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Kargil,Jammu And Kashmir,2018,kharif,small millets,351.0,192.1,0.55,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108,Hectare,Tonnes,Tonnes/Hectare
+Ratlam,Madhya Pradesh,2019,kharif,sesamum,28.0,13.0,0.46,Oilseeds,28.415749,1266.78,64.04411,2.9628506,Ratlam,Madhya Pradesh,214.0,Ratlam,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Bongaigaon,Assam,2018,kharif,rice,4477.0,4131.0,0.92,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Rayagada,Odisha,2019,rabi,gram,140.0,110.0,0.79,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Bidar,Karnataka,2016,kharif,jowar,26612.0,17394.0,0.65,Cereals,27.848364,844.83,63.87047,3.0606542,Bidar,Karnataka,214.0,Bidar,Karnataka,,,,,high_extreme,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Purulia,West Bengal,2016,rabi,wheat,1366.0,2415.0,1.77,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Bhadradri,Telangana,2019,kharif,sesamum,39.0,6.0,0.15,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Phek,Nagaland,2019,kharif,sugarcane,260.0,11336.0,43.6,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Khandwa,Madhya Pradesh,2018,rabi,linseed,4.0,2.0,0.5,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Mahabubabad,Telangana,2019,rabi,urad,304.0,547.0,1.8,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Pauri Garhwal,Uttarakhand,2019,rabi,masoor,448.0,390.0,0.87,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Coochbehar,West Bengal,2015,rabi,potato,36806.0,885147.0,24.05,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Gajapati,Odisha,2018,rabi,rapeseed &mustard,42.0,5.4,0.13,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Kaushambi,Uttar Pradesh,2019,kharif,small millets,4.0,3.0,0.75,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108,Hectare,Tonnes,Tonnes/Hectare
+Mandla,Madhya Pradesh,2018,rabi,wheat,53435.0,123324.0,2.31,Cereals,19.426584,58.84,41.151917,1.5285833,Mandla,Madhya Pradesh,120.0,Mandla,Madhya Pradesh,,,,very_low,high_extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Panch Mahals,Gujarat,2018,kharif,tobacco,105.0,194.0,1.85,Drugs And Narcotics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
+Vaishali,Bihar,2016,rabi,rapeseed &mustard,3134.0,3162.0,1.01,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Bhilwara,Rajasthan,2019,kharif,castor seed,85.0,44.0,0.52,Oilseeds,29.038458,876.18,58.44005,2.490514,Bhilwara,Rajasthan,214.0,Bhilwara,Rajasthan,,,,,high_extreme,,,,,,,,,,,,,,,1002,Hectare,Tonnes,Tonnes/Hectare
+Basti,Uttar Pradesh,2015,rabi,gram,590.0,363.0,0.62,Pulses,21.078901,135.63,45.887142,1.6852747,Basti,Uttar Pradesh,182.0,Basti,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Bijnor,Uttar Pradesh,2015,kharif,dry chillies,5.0,4.0,0.8,Spices,28.186682,956.5,55.750187,1.7373831,Bijnor,Uttar Pradesh,214.0,Bijnor,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Pune,Maharashtra,2016,kharif,jowar,1800.0,400.0,0.22,Cereals,25.060467,2249.26,76.51075,3.378645,Pune,Maharashtra,214.0,Pune,Maharashtra,,,,low,extreme,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Khargone,Madhya Pradesh,2015,whole_year,dry chillies,34209.0,58155.0,1.7,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Darrang,Assam,2017,kharif,castor seed,1.0,1.0,1.0,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1002,Hectare,Tonnes,Tonnes/Hectare
+Surendranagar,Gujarat,2015,whole_year,dry chillies,265.0,270.0,1.02,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Osmanabad,Maharashtra,2018,rabi,wheat,19580.0,15000.0,0.77,Cereals,24.624395,29.11,35.11412,1.880989,Osmanabad,Maharashtra,182.0,Osmanabad,Maharashtra,,,,,high_extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Darbhanga,Bihar,2017,rabi,masoor,2142.0,1752.0,0.82,Pulses,22.120659,47.63,49.418076,1.581978,Darbhanga,Bihar,182.0,Darbhanga,Bihar,,,,,,high_extreme,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Tikamgarh,Madhya Pradesh,2015,rabi,wheat,94000.0,180000.0,1.91,Cereals,20.563572,139.92,50.42203,1.4345604,Tikamgarh,Madhya Pradesh,182.0,Tikamgarh,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Medak,Telangana,2015,kharif,onion,296.0,4183.0,14.13,Vegetable,28.638224,504.78,59.217148,2.8363085,Medak,Telangana,214.0,Medak,Telangana,,,,,low,,,,extreme,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Srikakulam,Andhra Pradesh,2019,rabi,moong(green gram),26653.0,14099.0,0.53,Pulses,24.21313,292.22,73.11225,1.8531319,Srikakulam,Andhra Pradesh,182.0,Srikakulam,Andhra Pradesh,,,,,,,,high_extreme,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Nuapada,Odisha,2017,kharif,urad,5487.0,1448.6,0.26,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Tuensang,Nagaland,2015,rabi,rapeseed &mustard,2150.0,2170.0,1.01,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Pali,Rajasthan,2015,rabi,linseed,59.0,19.0,0.32,Oilseeds,19.853416,3.49,29.47725,1.80875,Pali,Rajasthan,120.0,Pali,Rajasthan,,,,,,,,,,,,,,,high_extreme,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Medak,Telangana,2017,kharif,moong(green gram),2063.0,1362.0,0.66,Pulses,28.391169,675.06,61.605,2.7646263,Medak,Telangana,214.0,Medak,Telangana,,,,,low,,,,extreme,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+North Tripura,Tripura,2018,rabi,khesari,3.0,1.89,0.63,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,208,Hectare,Tonnes,Tonnes/Hectare
+Mokokchung,Nagaland,2016,kharif,peas & beans (pulses),230.0,310.0,1.35,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+West Tripura,Tripura,2015,rabi,masoor,263.0,174.0,0.66,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Tirunelveli,Tamil Nadu,2018,whole_year,arecanut,123.0,41.0,0.33,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,507,Hectare,Tonnes,Tonnes/Hectare
+Dang,Gujarat,2015,kharif,maize,1964.0,2592.0,1.32,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Jaunpur,Uttar Pradesh,2015,rabi,masoor,139.0,115.0,0.83,Pulses,21.669561,115.33,42.367363,1.5953846,Jaunpur,Uttar Pradesh,182.0,Jaunpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Jalaun,Uttar Pradesh,2017,kharif,small millets,8.0,5.0,0.62,Cereals,32.54042,482.43,46.939064,2.1856542,Jalaun,Uttar Pradesh,214.0,Jalaun,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,108,Hectare,Tonnes,Tonnes/Hectare
+Muzaffarpur,Bihar,2015,rabi,linseed,56.0,48.0,0.86,Oilseeds,21.652857,68.29,50.386703,1.627967,Muzaffarpur,Bihar,182.0,Muzaffarpur,Bihar,,,,,,high_extreme,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Kolar,Karnataka,2019,kharif,soyabean,22.0,25.0,1.14,Oilseeds,25.415936,810.8,70.431305,3.135327,Kolar,Karnataka,214.0,Kolar,Karnataka,,,,,,,,,high_extreme,,,,,,,,,,,1009,Hectare,Tonnes,Tonnes/Hectare
+Dhule,Maharashtra,2018,kharif,cotton(lint),217874.0,210521.0,0.97,Fiber Crops,28.331402,459.88,59.338036,3.6922898,Dhule,Maharashtra,214.0,Dhule,Maharashtra,,,,low,extreme,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Erode,Tamil Nadu,2018,whole_year,sweet potato,3.0,67.0,22.33,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Buldhana,Maharashtra,2017,rabi,rapeseed &mustard,700.0,300.0,0.43,Oilseeds,23.34566,71.18,42.956375,1.703956,Buldhana,Maharashtra,182.0,Buldhana,Maharashtra,,,,low,extreme,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Shimla,Himachal Pradesh,2017,rabi,barley,3123.0,5511.0,1.76,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+West Godavari,Andhra Pradesh,2018,kharif,niger seed,79647.0,1.094102e+06,13.74,Oilseeds,28.772476,1024.72,78.68948,3.2712617,West Godavari,Andhra Pradesh,214.0,West Godavari,Andhra Pradesh,,,,,,,,moderate,moderate,,,,,,,,,,,1010,Hectare,Tonnes,Tonnes/Hectare
+Patna,Bihar,2017,whole_year,coriander,274.0,250.0,0.91,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Tirunelveli,Tamil Nadu,2019,kharif,bajra,1.0,2.0,2.0,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Cachar,Assam,2016,rabi,moong(green gram),35.0,23.0,0.66,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+South Tripura,Tripura,2016,zaid,rice,15654.0,51990.0,3.32,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Hooghly,West Bengal,2017,rabi,wheat,463.0,1119.0,2.42,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Azamgarh,Uttar Pradesh,2017,rabi,tobacco,103.0,479.0,4.65,Drugs And Narcotics,21.078241,16.05,49.662582,1.5893956,Azamgarh,Uttar Pradesh,182.0,Azamgarh,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
+Mau,Uttar Pradesh,2019,zaid,maize,177.0,437.0,2.47,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Seoni,Madhya Pradesh,2016,whole_year,sweet potato,39.0,728.0,18.67,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Nuapada,Odisha,2019,kharif,other kharif pulses,4300.0,1860.0,0.43,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Rajnandgaon,Chhattisgarh,2018,rabi,peas & beans (pulses),804.0,306.0,0.38,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Kokrajhar,Assam,2016,whole_year,dry chillies,614.0,522.0,0.85,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Bhavnagar,Gujarat,2017,kharif,moong(green gram),4138.0,2350.0,0.57,Pulses,30.260468,833.64,61.521263,3.0620093,Bhavnagar,Gujarat,214.0,Bhavnagar,Gujarat,,,,,low,,,extreme,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Dibang Valley,Arunachal Pradesh,2017,whole_year,potato,167.0,943.0,5.65,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Phek,Nagaland,2017,rabi,sunflower,320.0,200.0,0.62,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1007,Hectare,Tonnes,Tonnes/Hectare
+Tirunelveli,Tamil Nadu,2016,kharif,sunflower,116.0,99.0,0.85,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1007,Hectare,Tonnes,Tonnes/Hectare
+Adilabad,Telangana,2016,rabi,maize,1239.0,8431.0,6.8,Cereals,22.3265,2.0,47.149834,1.6674167,Adilabad,Telangana,120.0,Adilabad,Telangana,,,,,moderate,,,,moderate,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Latur,Maharashtra,2019,rabi,sunflower,605.0,431.0,0.71,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1007,Hectare,Tonnes,Tonnes/Hectare
+Garhwa,Jharkhand,2018,kharif,groundnut,2607.0,2177.0,0.84,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Dehradun,Uttarakhand,2016,kharif,other oilseeds,2.0,1.0,0.5,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1088,Hectare,Tonnes,Tonnes/Hectare
+Sant Ravidas Nagar,Uttar Pradesh,2018,kharif,sweet potato,2.0,23.0,11.5,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Peren,Nagaland,2016,kharif,castor seed,40.0,30.0,0.75,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1002,Hectare,Tonnes,Tonnes/Hectare
+Purnia,Bihar,2015,kharif,mesta,1852.0,27368.0,14.78,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1103,Hectare,Tonnes,Tonnes/Hectare
+Kasaragod,Kerala,2015,whole_year,coconut,64335.0,6.19e+08,9621.51,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1006,Hectare,Tonnes,Tonnes/Hectare
+Udhampur,Jammu And Kashmir,2015,rabi,potato,10.0,92.3,9.23,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Nalanda,Bihar,2016,rabi,potato,3966.0,114181.0,28.79,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Betul,Madhya Pradesh,2019,rabi,wheat,264808.0,693267.0,2.62,Cereals,20.726593,118.28,53.8289,1.764945,Betul,Madhya Pradesh,182.0,Betul,Madhya Pradesh,,,,,high_extreme,,very_low,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Ghazipur,Uttar Pradesh,2015,rabi,rapeseed &mustard,655.0,263.0,0.4,Oilseeds,21.82423,82.57,45.883846,1.568022,Ghazipur,Uttar Pradesh,182.0,Ghazipur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Hardoi,Uttar Pradesh,2018,rabi,gram,607.0,689.0,1.14,Pulses,20.01489,18.8,45.307636,1.6448901,Hardoi,Uttar Pradesh,182.0,Hardoi,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Belagavi,Karnataka,2019,kharif,urad,8262.0,3909.0,0.47,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Jhansi,Uttar Pradesh,2016,kharif,jowar,3263.0,3108.0,0.95,Cereals,30.93799,802.72,55.875328,2.1804206,Jhansi,Uttar Pradesh,214.0,Jhansi,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Ganjam,Odisha,2018,rabi,sesamum,2.0,0.3,0.15,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Beed,Maharashtra,2019,rabi,wheat,20590.0,26625.0,1.29,Cereals,23.38044,215.27,51.84912,1.9475275,Beed,Maharashtra,182.0,Beed,Maharashtra,,,,,high_extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Mayurbhanj,Odisha,2018,zaid,wheat,56.0,87.3,1.56,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Jalpaiguri,West Bengal,2015,rabi,horse-gram,60.0,77.0,1.28,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Medchal Malkajgiri,Telangana,2017,kharif,maize,1072.0,3698.0,3.45,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Meerut,Uttar Pradesh,2018,rabi,barley,133.0,560.0,4.21,Cereals,18.745714,15.83,43.61467,1.8336264,Meerut,Uttar Pradesh,182.0,Meerut,Uttar Pradesh,,,,,,,,,,,,,,,,,,high_extreme,,107,Hectare,Tonnes,Tonnes/Hectare
+Mainpuri,Uttar Pradesh,2016,kharif,sugarcane,463.0,24817.0,53.6,Sugar,31.477196,701.96,52.349533,2.0256543,Mainpuri,Uttar Pradesh,214.0,Mainpuri,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Seoni,Madhya Pradesh,2016,rabi,masoor,20000.0,19000.0,0.95,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Chikkaballapura,Karnataka,2017,kharif,potato,158.0,1523.0,9.64,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Yadadri,Telangana,2019,rabi,groundnut,47.0,111.0,2.36,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Kamrup,Assam,2018,rabi,linseed,117.0,61.0,0.52,Oilseeds,18.471083,47.87,75.74242,1.5473334,Kamrup,Assam,120.0,Kamrup,Assam,,,,,,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Chittorgarh,Rajasthan,2015,kharif,moong(green gram),467.0,204.0,0.44,Pulses,29.265327,572.07,53.46509,2.8222897,Chittorgarh,Rajasthan,214.0,Chittorgarh,Rajasthan,,,,,high_extreme,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Kalaburagi,Karnataka,2015,whole_year,garlic,47.0,63.0,1.34,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Khordha,Odisha,2016,rabi,horse-gram,33.0,12.2,0.37,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Dindori,Madhya Pradesh,2018,kharif,maize,15851.0,35847.0,2.26,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Raipur,Chhattisgarh,2015,whole_year,ginger,32.0,48.0,1.5,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Visakhapatanam,Andhra Pradesh,2018,kharif,niger seed,23.0,7.0,0.3,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1010,Hectare,Tonnes,Tonnes/Hectare
+Mathura,Uttar Pradesh,2015,rabi,barley,3864.0,10500.0,2.72,Cereals,17.527082,40.94,39.737667,1.41575,Mathura,Uttar Pradesh,120.0,Mathura,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Ranchi,Jharkhand,2017,kharif,urad,10161.0,8637.0,0.85,Pulses,27.753458,1470.79,66.79332,2.0942523,Ranchi,Jharkhand,214.0,Ranchi,Jharkhand,,high_extreme,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Kodagu,Karnataka,2017,kharif,groundnut,56.0,62.0,1.11,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Karimganj,Assam,2015,whole_year,sweet potato,109.0,498.0,4.57,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Jamtara,Jharkhand,2019,rabi,peas & beans (pulses),1824.0,2526.0,1.38,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Indore,Madhya Pradesh,2018,whole_year,garlic,13095.0,170235.0,13.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Jayashankar,Telangana,2018,rabi,jowar,2.0,3.0,1.5,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Poonch,Jammu And Kashmir,2019,rabi,wheat,16697.0,37186.0,2.23,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Dakshina Kannada,Karnataka,2016,rabi,moong(green gram),167.0,15.0,0.09,Pulses,26.857323,109.74,68.18629,1.6081967,Dakshina Kannada,Karnataka,183.0,Dakshina Kannada,Karnataka,,,,,,,,low,,,,extreme,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Hardoi,Uttar Pradesh,2015,kharif,urad,22746.0,11418.0,0.5,Pulses,30.97243,662.69,49.78715,2.0661216,Hardoi,Uttar Pradesh,214.0,Hardoi,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+South Tripura,Tripura,2019,rabi,other  rabi pulses,136.0,124.0,0.91,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Darrang,Assam,2016,rabi,arecanut,1533.0,561.0,0.37,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,507,Hectare,Tonnes,Tonnes/Hectare
+Purbi Champaran,Bihar,2019,whole_year,garlic,3.0,5.0,1.67,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Banda,Uttar Pradesh,2015,kharif,jowar,22999.0,7981.0,0.35,Cereals,31.920748,551.65,48.951916,2.2776635,Banda,Uttar Pradesh,214.0,Banda,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Khagaria,Bihar,2015,kharif,maize,17242.0,10531.0,0.61,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Sonbhadra,Uttar Pradesh,2015,kharif,sannhamp,140.0,40.0,0.29,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1104,Hectare,Tonnes,Tonnes/Hectare
+Rangareddi,Telangana,2018,kharif,banana,2.0,123.0,61.5,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,606,Hectare,Tonnes,Tonnes/Hectare
+Ariyalur,Tamil Nadu,2018,whole_year,coriander,13.0,5.0,0.38,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Pashchim Champaran,Bihar,2015,rabi,linseed,1448.0,1245.0,0.86,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Darjeeling,West Bengal,2018,rabi,wheat,500.0,928.0,1.86,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Rangareddi,Telangana,2019,rabi,bajra,14.0,17.0,1.21,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+East Godavari,Andhra Pradesh,2019,kharif,turmeric,324.0,3888.0,12.0,Spices,29.245655,1065.21,75.95743,2.4149065,East Godavari,Andhra Pradesh,214.0,East Godavari,Andhra Pradesh,,,,,,,,extreme,low,,,,,,,,,,,504,Hectare,Tonnes,Tonnes/Hectare
+Tapi,Gujarat,2017,rabi,gram,3527.0,3767.0,1.07,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Kra Daadi,Arunachal Pradesh,2017,kharif,other kharif pulses,17.0,2.0,0.12,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Balrampur,Chhattisgarh,2015,kharif,soyabean,100.0,37.0,0.37,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1009,Hectare,Tonnes,Tonnes/Hectare
+Siddharth Nagar,Uttar Pradesh,2015,rabi,masoor,3873.0,2750.0,0.71,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Banda,Uttar Pradesh,2015,rabi,linseed,1012.0,125.0,0.12,Oilseeds,21.808407,145.98,43.429287,1.4486264,Banda,Uttar Pradesh,182.0,Banda,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Pithoragarh,Uttarakhand,2016,rabi,gram,43.0,31.0,0.72,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Sitapur,Uttar Pradesh,2016,rabi,wheat,212207.0,715562.0,3.37,Cereals,21.02082,56.97,38.468964,1.5621312,Sitapur,Uttar Pradesh,183.0,Sitapur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Davangere,Karnataka,2016,kharif,horse-gram,321.0,1687.0,5.26,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Srinagar,Jammu And Kashmir,2018,kharif,rice,2903.0,7387.33,2.54,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Panna,Madhya Pradesh,2015,whole_year,sesamum,29000.0,11000.0,0.38,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Bijnor,Uttar Pradesh,2017,rabi,gram,13.0,16.0,1.23,Pulses,19.042253,65.54,42.455276,1.6058791,Bijnor,Uttar Pradesh,182.0,Bijnor,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Sehore,Madhya Pradesh,2016,rabi,wheat,250000.0,847000.0,3.39,Cereals,19.78275,12.94,39.678665,1.61075,Sehore,Madhya Pradesh,120.0,Sehore,Madhya Pradesh,,,,moderate,extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Dang,Gujarat,2018,kharif,other kharif pulses,35.0,16.0,0.46,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Muzaffarnagar,Uttar Pradesh,2019,kharif,sugarcane,177109.0,1.6075121e+07,90.76,Sugar,30.80472,597.11,50.83019,1.9813552,Muzaffarnagar,Uttar Pradesh,214.0,Muzaffarnagar,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Warangal,Telangana,2019,kharif,urad,56.0,53.0,0.95,Pulses,29.786776,891.59,63.510094,2.7057943,Warangal,Telangana,214.0,Warangal,Telangana,,,,,low,,,low,moderate,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Bongaigaon,Assam,2015,whole_year,turmeric,310.0,253.0,0.82,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,504,Hectare,Tonnes,Tonnes/Hectare
+Gondia,Maharashtra,2018,kharif,moong(green gram),1.0,1.0,0.0,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Burhanpur,Madhya Pradesh,2017,whole_year,onion,714.0,14280.0,20.0,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Mandya,Karnataka,2019,rabi,maize,392.0,1357.0,3.46,Cereals,24.415054,290.81,62.842636,1.9944506,Mandya,Karnataka,182.0,Mandya,Karnataka,,,,,,,,,high_extreme,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Mahasamund,Chhattisgarh,2017,rabi,gram,151.0,154.0,1.02,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+East Godavari,Andhra Pradesh,2018,kharif,cowpea(lobia),8.0,1.0,0.12,Pulses,28.480608,977.37,77.34785,2.334159,East Godavari,Andhra Pradesh,214.0,East Godavari,Andhra Pradesh,,,,,,,,extreme,low,,,,,,,,,,,207,Hectare,Tonnes,Tonnes/Hectare
+Dharwad,Karnataka,2016,whole_year,coconut,280.0,2.189e+06,7817.86,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1006,Hectare,Tonnes,Tonnes/Hectare
+Parbhani,Maharashtra,2017,rabi,gram,107869.0,67192.0,0.62,Pulses,22.944834,0.61,37.80725,1.7771667,Parbhani,Maharashtra,120.0,Parbhani,Maharashtra,,,,low,extreme,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Karbi Anglong,Assam,2018,whole_year,turmeric,1058.0,2227.0,2.1,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,504,Hectare,Tonnes,Tonnes/Hectare
+Sahebganj,Jharkhand,2017,kharif,rice,44100.0,79490.0,1.8,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Bandipora,Jammu And Kashmir,2017,kharif,moong(green gram),74.0,26.6,0.36,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Hanumangarh,Rajasthan,2017,kharif,sesamum,1057.0,285.0,0.27,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Janjgir-Champa,Chhattisgarh,2018,rabi,urad,97.0,39.0,0.4,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Narayanapet,Telangana,2019,rabi,sesamum,5.0,3.0,0.6,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Peddapalli,Telangana,2018,rabi,moong(green gram),227.0,215.0,0.95,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Ambala,Haryana,2016,kharif,rice,83000.0,319000.0,3.84,Cereals,29.760468,796.2,50.349766,1.891215,Ambala,Haryana,214.0,Ambala,Haryana,,,,,,high_extreme,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Tirunelveli,Tamil Nadu,2017,whole_year,banana,4338.0,87889.0,20.26,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,606,Hectare,Tonnes,Tonnes/Hectare
+Theni,Tamil Nadu,2017,rabi,jowar,5295.0,22848.0,4.32,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Dhamtari,Chhattisgarh,2016,rabi,masoor,643.0,251.0,0.39,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Mewat,Haryana,2016,whole_year,coriander,21.0,40.0,1.9,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Jhargram,West Bengal,2019,zaid,sesamum,6109.0,4710.0,0.77,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Dakshina Kannada,Karnataka,2017,zaid,cowpea(lobia),156.0,47.0,0.3,Pulses,28.72542,523.86,69.72495,2.1456075,Dakshina Kannada,Karnataka,107.0,Dakshina Kannada,Karnataka,,,,,,,,low,,,,extreme,,,,,,,,207,Hectare,Tonnes,Tonnes/Hectare
+Akola,Maharashtra,2019,kharif,moong(green gram),19284.0,7672.0,0.4,Pulses,29.234346,963.34,61.083317,3.0452805,Akola,Maharashtra,214.0,Akola,Maharashtra,,,,moderate,extreme,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Gwalior,Madhya Pradesh,2016,rabi,wheat,146000.0,586000.0,4.01,Cereals,19.294,4.23,32.26433,1.4335834,Gwalior,Madhya Pradesh,120.0,Gwalior,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Vizianagaram,Andhra Pradesh,2017,rabi,groundnut,1051.0,2179.0,2.07,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Buxar,Bihar,2015,kharif,maize,1111.0,1514.0,1.36,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Tumakuru,Karnataka,2018,whole_year,sannhamp,10.0,2.0,0.2,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1104,Hectare,Tonnes,Tonnes/Hectare
+Mandla,Madhya Pradesh,2019,rabi,masoor,23768.0,15449.0,0.65,Pulses,18.00825,47.49,56.80925,1.56825,Mandla,Madhya Pradesh,120.0,Mandla,Madhya Pradesh,,,,very_low,high_extreme,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Amreli,Gujarat,2016,whole_year,sugarcane,7.0,503.0,71.86,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Una,Himachal Pradesh,2015,kharif,moth,11.0,5.0,0.45,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,209,Hectare,Tonnes,Tonnes/Hectare
+Mysuru,Karnataka,2019,kharif,bajra,15.0,16.0,1.07,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Nalgonda,Telangana,2019,rabi,bajra,7.0,9.0,1.29,Cereals,24.00625,44.32,65.75066,1.81075,Nalgonda,Telangana,120.0,Nalgonda,Telangana,,,,,,,,,high_extreme,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Uttara Kannada,Karnataka,2016,zaid,urad,161.0,86.0,0.53,Pulses,28.596355,591.19,72.6672,2.1209345,Uttara Kannada,Karnataka,107.0,Uttara Kannada,Karnataka,,,,,moderate,,,low,,,,low,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Mahasamund,Chhattisgarh,2017,kharif,arhar/tur,513.0,137.0,0.27,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Kalimpong,West Bengal,2019,kharif,maize,11413.0,26646.0,2.33,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Buxar,Bihar,2019,rabi,potato,1201.0,22137.0,18.43,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Thrissur,Kerala,2016,whole_year,coconut,80504.0,5e+08,6210.87,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1006,Hectare,Tonnes,Tonnes/Hectare
+Jamnagar,Gujarat,2018,kharif,castor seed,5212.0,7112.0,1.36,Oilseeds,29.395468,314.26,68.59481,4.506215,Jamnagar,Gujarat,214.0,Jamnagar,Gujarat,,,,,moderate,,,moderate,,,,,,,,,,,,1002,Hectare,Tonnes,Tonnes/Hectare
+Saraikela Kharsawan,Jharkhand,2017,kharif,jowar,591.0,473.0,0.8,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Barwani,Madhya Pradesh,2019,kharif,urad,2704.0,1454.0,0.54,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Rampur,Uttar Pradesh,2016,rabi,rapeseed &mustard,4036.0,5557.0,1.38,Oilseeds,17.8795,14.29,35.179165,1.59925,Rampur,Uttar Pradesh,120.0,Rampur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Chandauli,Uttar Pradesh,2018,rabi,potato,799.0,11106.0,13.9,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Palwal,Haryana,2017,whole_year,potato,75.0,1939.0,25.85,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Dimapur,Nagaland,2018,kharif,sweet potato,140.0,1190.0,8.5,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Rangareddi,Telangana,2018,rabi,rice,6552.0,12599.0,1.92,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Devbhumi Dwarka,Gujarat,2015,rabi,gram,48.0,75.0,1.56,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Davangere,Karnataka,2018,kharif,sunflower,159.0,148.0,0.93,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1007,Hectare,Tonnes,Tonnes/Hectare
+Allahabad,Uttar Pradesh,2019,rabi,onion,336.0,6156.0,18.32,Vegetable,19.906593,102.78,59.372032,1.4792308,Allahabad,Uttar Pradesh,182.0,Allahabad,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Vellore,Tamil Nadu,2016,kharif,horse-gram,113.0,48.0,0.42,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Kolhapur,Maharashtra,2015,kharif,ragi,20800.0,27300.0,1.31,Cereals,25.964813,702.0,72.727104,3.3778505,Kolhapur,Maharashtra,214.0,Kolhapur,Maharashtra,,,,moderate,moderate,,,,,,,,,,,,,,,105,Hectare,Tonnes,Tonnes/Hectare
+Jehanabad,Bihar,2019,rabi,rapeseed &mustard,185.0,129.0,0.7,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Karur,Tamil Nadu,2016,whole_year,tapioca,1108.0,16949.0,15.3,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,702,Hectare,Tonnes,Tonnes/Hectare
+Udupi,Karnataka,2018,rabi,moong(green gram),169.0,38.0,0.22,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Faizabad,Uttar Pradesh,2017,kharif,jowar,1740.0,1260.0,0.72,Cereals,30.878878,1178.05,59.29,2.0078037,Faizabad,Uttar Pradesh,214.0,Faizabad,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Shahjahanpur,Uttar Pradesh,2015,rabi,maize,221.0,486.0,2.2,Cereals,17.87975,63.25,43.19483,1.8045,Shahjahanpur,Uttar Pradesh,120.0,Shahjahanpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Dohad,Gujarat,2019,kharif,rice,43010.0,51421.0,1.2,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Damoh,Madhya Pradesh,2017,rabi,rapeseed &mustard,3500.0,2800.0,0.8,Oilseeds,21.807198,16.19,40.751648,1.5541209,Damoh,Madhya Pradesh,182.0,Damoh,Madhya Pradesh,,,,moderate,extreme,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Kasganj,Uttar Pradesh,2016,rabi,masoor,1308.0,1304.0,1.0,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Simdega,Jharkhand,2015,rabi,onion,97.0,317.0,3.27,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Amravati,Maharashtra,2017,zaid,other oilseeds,20.0,4.0,0.2,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1088,Hectare,Tonnes,Tonnes/Hectare
+Chitradurga,Karnataka,2015,kharif,sesamum,2100.0,1099.0,0.52,Oilseeds,25.889112,540.94,71.24346,3.7363083,Chitradurga,Karnataka,214.0,Chitradurga,Karnataka,,,,very_low,,,,,high_extreme,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Saiha,Mizoram,2019,kharif,soyabean,14.0,7.0,0.5,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1009,Hectare,Tonnes,Tonnes/Hectare
+Barmer,Rajasthan,2019,rabi,wheat,17323.0,31228.0,1.8,Cereals,21.630604,81.49,39.49165,2.2628021,Barmer,Rajasthan,182.0,Barmer,Rajasthan,,,,,,,,,,,,,,,high_extreme,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Tehri Garhwal,Uttarakhand,2019,rabi,barley,2231.0,3464.0,1.55,Cereals,5.625583,230.28,56.117332,1.268,Tehri Garhwal,Uttarakhand,120.0,Tehri Garhwal,Uttarakhand,,,,,,,,,,,,,,,,,,high_extreme,,107,Hectare,Tonnes,Tonnes/Hectare
+Unnao,Uttar Pradesh,2017,rabi,coriander,140.0,73.0,0.52,Spices,21.196539,30.08,41.475548,1.5912638,Unnao,Uttar Pradesh,182.0,Unnao,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Anugul,Odisha,2019,rabi,garlic,4070.0,11670.0,2.87,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Sangli,Maharashtra,2018,rabi,other cereals,10.0,2.0,0.2,Cereals,22.60775,20.49,47.407417,1.9123334,Sangli,Maharashtra,120.0,Sangli,Maharashtra,,,,low,extreme,,,,,,,,,,,,,,,188,Hectare,Tonnes,Tonnes/Hectare
+Datia,Madhya Pradesh,2016,rabi,wheat,146000.0,494000.0,3.38,Cereals,21.902021,44.77,35.82355,1.4585792,Datia,Madhya Pradesh,183.0,Datia,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Khargone,Madhya Pradesh,2018,whole_year,potato,179.0,4475.0,25.0,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Raigarh,Chhattisgarh,2016,rabi,other  rabi pulses,136.0,43.0,0.32,Pulses,19.829334,12.07,59.08325,1.3146666,Raigarh,Chhattisgarh,120.0,Raigarh,Chhattisgarh,,high_extreme,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Tuticorin,Tamil Nadu,2016,rabi,jowar,8430.0,953.0,0.11,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Chitrakoot,Uttar Pradesh,2019,kharif,jowar,18212.0,28103.0,1.54,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Pathanamthitta,Kerala,2019,whole_year,banana,2246.0,18086.0,8.05,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,606,Hectare,Tonnes,Tonnes/Hectare
+Yadadri,Telangana,2018,rabi,sesamum,2.0,1.0,0.5,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Yadagiri,Karnataka,2017,kharif,dry chillies,756.0,1422.0,1.88,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Simdega,Jharkhand,2016,rabi,onion,123.0,1275.0,10.37,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Kasganj,Uttar Pradesh,2017,rabi,coriander,50.0,26.0,0.52,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Mainpuri,Uttar Pradesh,2019,kharif,sugarcane,477.0,31388.0,65.8,Sugar,31.21299,723.65,55.41617,2.1328971,Mainpuri,Uttar Pradesh,214.0,Mainpuri,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Jehanabad,Bihar,2016,zaid,moong(green gram),121.0,123.0,1.02,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Sirsa,Haryana,2016,whole_year,coriander,53.0,48.0,0.91,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Katni,Madhya Pradesh,2019,rabi,wheat,194702.0,674837.0,3.47,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Gomati,Tripura,2017,rabi,urad,367.0,297.0,0.81,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Medak,Telangana,2019,kharif,cotton(lint),29698.0,89789.0,3.02,Fiber Crops,28.824907,762.01,61.95925,2.9886448,Medak,Telangana,214.0,Medak,Telangana,,,,,low,,,,extreme,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Kalimpong,West Bengal,2019,rabi,potato,750.0,15989.0,21.32,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Firozabad,Uttar Pradesh,2017,zaid,maize,487.0,1068.0,2.19,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Faridabad,Haryana,2019,whole_year,sugarcane,200.0,13500.0,67.5,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Bargarh,Odisha,2019,rabi,sugarcane,39.0,2679.3,68.7,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Datia,Madhya Pradesh,2018,whole_year,dry chillies,318.0,318.0,1.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Supaul,Bihar,2017,kharif,moong(green gram),692.0,506.0,0.73,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Tapi,Gujarat,2018,kharif,urad,1357.0,688.0,0.51,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Kanpur Nagar,Uttar Pradesh,2019,zaid,rice,5.0,17.0,3.4,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Bhojpur,Bihar,2017,zaid,moong(green gram),45.0,32.0,0.71,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Madurai,Tamil Nadu,2016,kharif,cotton(lint),4063.0,5172.0,1.27,Fiber Crops,29.434486,451.91,61.96589,2.2113085,Madurai,Tamil Nadu,214.0,Madurai,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Tuensang,Nagaland,2019,kharif,other kharif pulses,3017.0,3818.0,1.27,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Lalitpur,Uttar Pradesh,2015,rabi,gram,3589.0,2659.0,0.74,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Sirohi,Rajasthan,2015,kharif,small millets,1092.0,219.0,0.2,Cereals,29.253925,509.06,53.217102,2.6915889,Sirohi,Rajasthan,214.0,Sirohi,Rajasthan,,,,,,,,,,,,,,,,,high_extreme,,,108,Hectare,Tonnes,Tonnes/Hectare
+Jashpur,Chhattisgarh,2017,kharif,sannhamp,77.0,36.0,0.47,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1104,Hectare,Tonnes,Tonnes/Hectare
+Nainital,Uttarakhand,2020,rabi,wheat,21278.0,81359.0,3.82,Cereals,14.625847,342.1,51.99071,1.3710382,Nainital,Uttarakhand,183.0,Nainital,Uttarakhand,,,,,,high_extreme,,,,,,,,,,,,very_low,,106,Hectare,Tonnes,Tonnes/Hectare
+Kolhapur,Maharashtra,2015,kharif,arhar/tur,1500.0,200.0,0.13,Pulses,25.964813,702.0,72.727104,3.3778505,Kolhapur,Maharashtra,214.0,Kolhapur,Maharashtra,,,,moderate,moderate,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Boudh,Odisha,2016,rabi,rice,52340.0,164470.0,3.14,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Nizamabad,Telangana,2019,kharif,bajra,4.0,5.0,1.25,Cereals,29.389112,799.34,61.335888,2.7998598,Nizamabad,Telangana,214.0,Nizamabad,Telangana,,,,very_low,high_extreme,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Cuddalore,Tamil Nadu,2017,rabi,onion,22.0,205.0,9.32,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Sivasagar,Assam,2015,rabi,wheat,8.0,9.0,1.12,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Osmanabad,Maharashtra,2019,kharif,bajra,7677.0,2337.0,0.3,Cereals,28.459345,635.45,58.612244,3.3775702,Osmanabad,Maharashtra,214.0,Osmanabad,Maharashtra,,,,,high_extreme,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Aurangabad,Maharashtra,2015,rabi,sesamum,30.0,20.0,0.67,Oilseeds,22.812666,33.54,39.011,1.8421667,Aurangabad,Maharashtra,120.0,Aurangabad,Maharashtra,,,,low,high_extreme,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Nagaur,Rajasthan,2016,rabi,linseed,4276.0,8467.0,1.98,Oilseeds,18.951916,4.7,27.86125,1.6855834,Nagaur,Rajasthan,120.0,Nagaur,Rajasthan,,,,,,very_low,,,,,,,,,,,high_extreme,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Anantapur,Andhra Pradesh,2015,rabi,cotton(lint),633.0,1053.0,1.66,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Thoubal,Manipur,2016,whole_year,dry chillies,65.0,433.0,6.66,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Gopalganj,Bihar,2017,rabi,potato,2608.0,26716.0,10.24,Vegetable,19.243084,5.15,48.4175,1.6080834,Gopalganj,Bihar,120.0,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Surguja,Chhattisgarh,2017,whole_year,dry chillies,368.0,50.0,0.14,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Solapur,Maharashtra,2018,kharif,bajra,23793.0,3203.0,0.13,Cereals,28.254766,315.35,57.571777,3.638271,Solapur,Maharashtra,214.0,Solapur,Maharashtra,,,,,extreme,,,moderate,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Yadagiri,Karnataka,2016,kharif,urad,745.0,278.0,0.37,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Golaghat,Assam,2017,kharif,cotton(lint),6.0,2.0,0.33,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Shahjahanpur,Uttar Pradesh,2019,rabi,garlic,94.0,564.0,6.0,Spices,16.344084,125.75,57.239918,1.6158333,Shahjahanpur,Uttar Pradesh,120.0,Shahjahanpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Panch Mahals,Gujarat,2015,zaid,bajra,2850.0,4813.0,1.69,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Mahoba,Uttar Pradesh,2015,rabi,onion,22.0,259.0,11.77,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Neemuch,Madhya Pradesh,2017,whole_year,turmeric,4.0,48.0,12.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,504,Hectare,Tonnes,Tonnes/Hectare
+Godda,Jharkhand,2017,kharif,urad,3548.0,2696.0,0.76,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Purbi Champaran,Bihar,2019,rabi,masoor,5121.0,4681.0,0.91,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Gandhinagar,Gujarat,2019,zaid,groundnut,31.0,74.0,2.39,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Tuticorin,Tamil Nadu,2017,whole_year,sugarcane,39.0,3900.0,100.0,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Auraiya,Uttar Pradesh,2018,kharif,maize,9984.0,26008.0,2.6,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Ahmednagar,Maharashtra,2015,rabi,wheat,41100.0,50100.0,1.22,Cereals,22.867416,45.66,41.587418,1.9405,Ahmednagar,Maharashtra,120.0,Ahmednagar,Maharashtra,,,,moderate,extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Tikamgarh,Madhya Pradesh,2015,rabi,peas & beans (pulses),4000.0,3000.0,0.75,Pulses,20.563572,139.92,50.42203,1.4345604,Tikamgarh,Madhya Pradesh,182.0,Tikamgarh,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Bongaigaon,Assam,2018,rabi,masoor,1680.0,1591.0,0.95,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Raisen,Madhya Pradesh,2016,rabi,masoor,31000.0,51000.0,1.65,Pulses,21.281584,58.16,43.792458,1.5313661,Raisen,Madhya Pradesh,183.0,Raisen,Madhya Pradesh,,,,low,high_extreme,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Ratlam,Madhya Pradesh,2019,rabi,gram,33127.0,50386.0,1.52,Pulses,20.672363,57.63,51.75566,1.9441758,Ratlam,Madhya Pradesh,182.0,Ratlam,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Champhai,Mizoram,2018,kharif,rapeseed &mustard,6.0,5.0,0.83,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Kota,Rajasthan,2016,rabi,other  rabi pulses,5.0,3.0,0.6,Pulses,19.273,2.74,36.63775,1.373,Kota,Rajasthan,120.0,Kota,Rajasthan,,,,,high_extreme,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Kanker,Chhattisgarh,2016,kharif,rice,181719.0,424052.0,2.33,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Guntur,Andhra Pradesh,2016,rabi,niger seed,3206.0,10511.0,3.28,Oilseeds,26.28306,69.43,65.615845,1.994918,Guntur,Andhra Pradesh,183.0,Guntur,Andhra Pradesh,,,,low,,,,moderate,low,,,,,,,,,,,1010,Hectare,Tonnes,Tonnes/Hectare
+Marigaon,Assam,2017,kharif,maize,470.0,790.0,1.68,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Bhandara,Maharashtra,2016,kharif,arhar/tur,11824.0,22988.0,1.94,Pulses,29.570374,1226.0,64.35094,2.3804204,Bhandara,Maharashtra,214.0,Bhandara,Maharashtra,,,,,high_extreme,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Munger,Bihar,2018,rabi,rice,25561.0,35655.0,1.39,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Tiruvannamalai,Tamil Nadu,2018,whole_year,sugarcane,18126.0,1.686484e+06,93.04,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Aravalli,Gujarat,2017,rabi,wheat,65250.0,158392.0,2.43,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Palghar,Maharashtra,2015,rabi,sesamum,400.0,200.0,0.5,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Shamli,Uttar Pradesh,2019,zaid,onion,2922.0,47836.0,16.37,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Sangrur,Punjab,2017,rabi,moong(green gram),1500.0,1900.0,1.27,Pulses,18.93088,107.61,38.023903,1.4693956,Sangrur,Punjab,182.0,Sangrur,Punjab,,,,,,high_extreme,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Kadapa,Andhra Pradesh,2019,rabi,safflower,117.0,57.0,0.49,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1008,Hectare,Tonnes,Tonnes/Hectare
+Bishnupur,Manipur,2017,rabi,other  rabi pulses,1400.0,1317.0,0.94,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Gwalior,Madhya Pradesh,2015,rabi,wheat,136000.0,515000.0,3.79,Cereals,20.578627,158.11,43.691044,1.4664835,Gwalior,Madhya Pradesh,182.0,Gwalior,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Baloda Bazar,Chhattisgarh,2018,whole_year,coriander,11.0,4.0,0.36,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Dhar,Madhya Pradesh,2019,rabi,peas & beans (pulses),3022.0,2733.0,0.9,Pulses,19.937916,8.67,51.57225,1.9915833,Dhar,Madhya Pradesh,120.0,Dhar,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Dadra And Nagar Haveli,The Dadra And Nagar Haveli And Daman And Diu,2018,kharif,groundnut,3.0,4.5,1.5,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Ramgarh,Jharkhand,2019,kharif,maize,7098.0,17745.0,2.5,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Chitrakoot,Uttar Pradesh,2019,kharif,dry chillies,30.0,26.0,0.87,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Ballari,Karnataka,2017,whole_year,cashewnut,12.0,9.0,0.75,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,619,Hectare,Tonnes,Tonnes/Hectare
+Kadapa,Andhra Pradesh,2018,kharif,tobacco,28.0,34.0,1.21,Drugs And Narcotics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
+Panch Mahals,Gujarat,2017,kharif,bajra,421.0,694.0,1.65,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Mewat,Haryana,2019,whole_year,onion,7570.0,196820.0,26.0,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Jehanabad,Bihar,2018,rabi,masoor,5536.0,6145.0,1.11,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Nirmal,Telangana,2019,kharif,ragi,3.0,5.0,1.67,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,105,Hectare,Tonnes,Tonnes/Hectare
+Kachchh,Gujarat,2016,zaid,moong(green gram),135.0,97.0,0.72,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Aizawl,Mizoram,2018,rabi,cowpea(lobia),15.0,59.0,3.93,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,207,Hectare,Tonnes,Tonnes/Hectare
+Ashoknagar,Madhya Pradesh,2015,rabi,peas & beans (pulses),4000.0,3000.0,0.75,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Kasganj,Uttar Pradesh,2016,kharif,maize,33597.0,88394.0,2.63,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Sitamarhi,Bihar,2015,rabi,peas & beans (pulses),15.0,16.0,1.07,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Sri Potti Sriramulu Nellore,Andhra Pradesh,2019,rabi,jowar,951.0,1372.0,1.44,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Shivamogga,Karnataka,2017,rabi,horse-gram,34.0,21.0,0.62,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Kamrup,Assam,2018,rabi,rapeseed &mustard,11680.0,6503.0,0.56,Oilseeds,20.418846,144.68,74.26714,1.5858791,Kamrup,Assam,182.0,Kamrup,Assam,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Katni,Madhya Pradesh,2015,whole_year,ginger,978.0,12548.0,12.83,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Nizamabad,Telangana,2019,kharif,onion,44.0,982.0,22.32,Vegetable,29.389112,799.34,61.335888,2.7998598,Nizamabad,Telangana,214.0,Nizamabad,Telangana,,,,very_low,high_extreme,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Salem,Tamil Nadu,2018,whole_year,coconut,12917.0,1.42e+08,10993.26,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1006,Hectare,Tonnes,Tonnes/Hectare
+North Tripura,Tripura,2016,kharif,groundnut,61.0,80.0,1.31,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Mungeli,Chhattisgarh,2017,rabi,linseed,144.0,32.0,0.22,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Purba Medinipur,West Bengal,2016,kharif,sesamum,23.0,9.0,0.39,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Mysuru,Karnataka,2018,kharif,bajra,18.0,16.0,0.89,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Dhule,Maharashtra,2018,kharif,other cereals,441.0,243.0,0.55,Cereals,28.331402,459.88,59.338036,3.6922898,Dhule,Maharashtra,214.0,Dhule,Maharashtra,,,,low,extreme,,,,,,,,,,,,,,,188,Hectare,Tonnes,Tonnes/Hectare
+Pune,Maharashtra,2016,kharif,groundnut,17500.0,18500.0,1.06,Oilseeds,25.060467,2249.26,76.51075,3.378645,Pune,Maharashtra,214.0,Pune,Maharashtra,,,,low,extreme,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Allahabad,Uttar Pradesh,2018,rabi,onion,477.0,5966.0,12.51,Vegetable,18.98675,7.02,39.963833,1.5429167,Allahabad,Uttar Pradesh,120.0,Allahabad,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Chittoor,Andhra Pradesh,2016,rabi,groundnut,14374.0,48081.0,3.34,Oilseeds,23.80153,130.39,66.77065,1.9367213,Chittoor,Andhra Pradesh,183.0,Chittoor,Andhra Pradesh,,,,,,,,low,high_extreme,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Bagalkote,Karnataka,2018,whole_year,tapioca,1.0,13.0,13.0,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,702,Hectare,Tonnes,Tonnes/Hectare
+Bhagalpur,Bihar,2018,rabi,masoor,2021.0,1081.0,0.53,Pulses,21.284231,64.63,49.648735,1.4972527,Bhagalpur,Bihar,182.0,Bhagalpur,Bihar,,moderate,,,,extreme,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Nagarkurnool,Telangana,2019,rabi,urad,828.0,1490.0,1.8,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Surat,Gujarat,2017,rabi,maize,358.0,570.0,1.59,Cereals,24.158167,28.39,41.116417,1.9110833,Surat,Gujarat,120.0,Surat,Gujarat,,,,extreme,low,,,low,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Dharwad,Karnataka,2017,rabi,urad,27.0,12.0,0.44,Pulses,23.725658,116.22,55.998077,1.8807143,Dharwad,Karnataka,182.0,Dharwad,Karnataka,,,,low,extreme,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Ludhiana,Punjab,2017,rabi,wheat,252000.0,1.296e+06,5.14,Cereals,15.66475,101.69,45.160583,1.4373333,Ludhiana,Punjab,120.0,Ludhiana,Punjab,,,,,,high_extreme,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Hassan,Karnataka,2017,rabi,onion,35.0,496.0,14.17,Vegetable,22.321869,179.81,63.49022,1.6335714,Hassan,Karnataka,182.0,Hassan,Karnataka,,,,,,,,,high_extreme,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Bhavnagar,Gujarat,2017,rabi,rapeseed &mustard,11.0,20.0,1.82,Oilseeds,24.378407,24.94,40.628956,2.02011,Bhavnagar,Gujarat,182.0,Bhavnagar,Gujarat,,,,,low,,,extreme,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Thanjavur,Tamil Nadu,2018,kharif,maize,884.0,6717.0,7.6,Cereals,29.95014,475.78,67.08154,3.400701,Thanjavur,Tamil Nadu,214.0,Thanjavur,Tamil Nadu,,,,,,,,high_extreme,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Leh Ladakh,Ladakh,2015,rabi,masoor,5.0,2.8,0.56,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Raipur,Chhattisgarh,2016,rabi,moong(green gram),102.0,29.0,0.28,Pulses,20.264334,7.47,55.578667,1.2465,Raipur,Chhattisgarh,120.0,Raipur,Chhattisgarh,low,moderate,,very_low,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Pilibhit,Uttar Pradesh,2018,rabi,wheat,148303.0,658762.0,4.44,Cereals,16.64675,23.68,50.92425,1.4885833,Pilibhit,Uttar Pradesh,120.0,Pilibhit,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Fatehpur,Uttar Pradesh,2017,rabi,turmeric,75.0,96.0,1.28,Spices,21.474121,22.25,41.42626,1.5793957,Fatehpur,Uttar Pradesh,182.0,Fatehpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,504,Hectare,Tonnes,Tonnes/Hectare
+East Godavari,Andhra Pradesh,2016,rabi,tapioca,5.0,58.0,11.6,Vegetable,24.933916,25.6,67.79667,1.7215,East Godavari,Andhra Pradesh,120.0,East Godavari,Andhra Pradesh,,,,,,,,extreme,low,,,,,,,,,,,702,Hectare,Tonnes,Tonnes/Hectare
+Tiruppur,Tamil Nadu,2019,zaid,rice,664.0,2857.0,4.3,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Unnao,Uttar Pradesh,2017,kharif,sugarcane,612.0,47790.0,78.09,Sugar,31.54201,831.43,54.035843,1.9860281,Unnao,Uttar Pradesh,214.0,Unnao,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Guna,Madhya Pradesh,2018,kharif,cotton(lint),71.0,48.0,0.68,Fiber Crops,28.93701,931.27,56.822712,2.7831776,Guna,Madhya Pradesh,214.0,Guna,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Chikkamagaluru,Karnataka,2017,zaid,moong(green gram),65.0,19.0,0.29,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Raigarh,Chhattisgarh,2018,rabi,masoor,120.0,34.0,0.28,Pulses,22.156155,75.88,52.846375,1.2748901,Raigarh,Chhattisgarh,182.0,Raigarh,Chhattisgarh,,high_extreme,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Godda,Jharkhand,2018,kharif,horse-gram,499.0,354.0,0.71,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Tirunelveli,Tamil Nadu,2015,rabi,jowar,348.0,559.0,1.61,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Baleshwar,Odisha,2015,rabi,horse-gram,1.0,2.0,2.0,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Madurai,Tamil Nadu,2017,rabi,gram,52.0,48.0,0.92,Pulses,24.82225,245.82,72.934586,2.19,Madurai,Tamil Nadu,120.0,Madurai,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Kannauj,Uttar Pradesh,2018,rabi,tobacco,11.0,9.0,0.82,Drugs And Narcotics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
+Mandla,Madhya Pradesh,2016,kharif,arhar/tur,10000.0,11000.0,1.1,Pulses,27.89444,1145.51,64.04981,2.2972429,Mandla,Madhya Pradesh,214.0,Mandla,Madhya Pradesh,,,,very_low,high_extreme,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Dakshin Bastar Dantewada,Chhattisgarh,2016,kharif,urad,542.0,237.0,0.44,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Madhepura,Bihar,2018,kharif,mesta,2125.0,7948.0,3.74,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1103,Hectare,Tonnes,Tonnes/Hectare
+Buldhana,Maharashtra,2015,rabi,other oilseeds,100.0,100.0,1.0,Oilseeds,24.003845,107.44,44.90044,1.7301649,Buldhana,Maharashtra,182.0,Buldhana,Maharashtra,,,,low,extreme,,,,,,,,,,,,,,,1088,Hectare,Tonnes,Tonnes/Hectare
+Narmada,Gujarat,2017,kharif,urad,560.0,356.0,0.64,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Bongaigaon,Assam,2015,kharif,mesta,350.0,2421.0,6.92,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1103,Hectare,Tonnes,Tonnes/Hectare
+Alipurduar,West Bengal,2018,kharif,urad,2186.0,1634.0,0.75,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Dharwad,Karnataka,2018,rabi,other  rabi pulses,450.0,173.0,0.38,Pulses,24.459286,68.42,47.887856,1.82,Dharwad,Karnataka,182.0,Dharwad,Karnataka,,,,low,extreme,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Bargarh,Odisha,2016,rabi,potato,224.0,2041.3,9.11,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Alwar,Rajasthan,2018,kharif,sannhamp,1.0,1.0,1.0,Fiber Crops,30.739113,726.59,51.48645,2.0531776,Alwar,Rajasthan,214.0,Alwar,Rajasthan,,,,,,high_extreme,,,,,,,,,,,,,,1104,Hectare,Tonnes,Tonnes/Hectare
+Morbi,Gujarat,2018,kharif,urad,69.0,42.0,0.61,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Medak,Telangana,2017,kharif,arhar/tur,3080.0,2168.0,0.7,Pulses,28.391169,675.06,61.605,2.7646263,Medak,Telangana,214.0,Medak,Telangana,,,,,low,,,,extreme,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Jalpaiguri,West Bengal,2019,kharif,jute,26024.0,405295.0,15.57,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1102,Hectare,Tonnes,Tonnes/Hectare
+Salem,Tamil Nadu,2018,kharif,jowar,29093.0,30500.0,1.05,Cereals,28.261541,550.2,66.341774,2.3846729,Salem,Tamil Nadu,214.0,Salem,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Surat,Gujarat,2019,kharif,guar seed,133.0,97.0,0.73,Fodder,28.852524,1966.0,74.82444,3.1659346,Surat,Gujarat,214.0,Surat,Gujarat,,,,extreme,low,,,low,,,,,,,,,,,,1401,Hectare,Tonnes,Tonnes/Hectare
+Longding,Arunachal Pradesh,2015,whole_year,dry chillies,60.0,198.0,3.3,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Kaimur (Bhabua),Bihar,2016,rabi,potato,321.0,4876.0,15.19,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Betul,Madhya Pradesh,2019,zaid,groundnut,100.0,140.0,1.4,Oilseeds,31.243645,27.93,23.547102,2.622056,Betul,Madhya Pradesh,107.0,Betul,Madhya Pradesh,,,,,high_extreme,,very_low,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Sirmaur,Himachal Pradesh,2016,kharif,ragi,251.0,149.0,0.59,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,105,Hectare,Tonnes,Tonnes/Hectare
+Haridwar,Uttarakhand,2020,kharif,groundnut,482.0,728.0,1.51,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Barabanki,Uttar Pradesh,2018,rabi,wheat,162367.0,641351.0,3.95,Cereals,20.274616,11.32,46.51687,1.6351099,Barabanki,Uttar Pradesh,182.0,Barabanki,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Dhalai,Tripura,2015,rabi,peas & beans (pulses),383.0,365.0,0.95,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Virudhunagar,Tamil Nadu,2015,kharif,cotton(lint),1536.0,2205.0,1.44,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Medak,Telangana,2018,rabi,safflower,12.0,7.0,0.58,Oilseeds,23.4115,12.99,39.70175,1.8905833,Medak,Telangana,120.0,Medak,Telangana,,,,,low,,,,extreme,,,,,,,,,,,1008,Hectare,Tonnes,Tonnes/Hectare
+Krishnagiri,Tamil Nadu,2017,whole_year,cashewnut,5.0,28.0,0.0,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,619,Hectare,Tonnes,Tonnes/Hectare
+West Godavari,Andhra Pradesh,2015,kharif,maize,2759.0,14187.0,5.14,Cereals,28.975794,1036.14,78.5208,3.1904674,West Godavari,Andhra Pradesh,214.0,West Godavari,Andhra Pradesh,,,,,,,,moderate,moderate,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Bhind,Madhya Pradesh,2017,kharif,bajra,61900.0,170470.0,2.75,Cereals,32.360092,549.42,46.446354,2.1290188,Bhind,Madhya Pradesh,214.0,Bhind,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Gariyaband,Chhattisgarh,2016,whole_year,dry chillies,130.0,118.0,0.91,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Balrampur,Chhattisgarh,2019,rabi,linseed,3438.0,1458.0,0.42,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Bidar,Karnataka,2017,rabi,other  rabi pulses,417.0,145.0,0.35,Pulses,23.971209,110.05,45.728405,1.8368682,Bidar,Karnataka,182.0,Bidar,Karnataka,,,,,high_extreme,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Kra Daadi,Arunachal Pradesh,2018,rabi,rapeseed &mustard,28.0,25.0,0.89,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Jogulamba,Telangana,2018,kharif,groundnut,6006.0,13333.0,2.22,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Suryapet,Telangana,2017,kharif,banana,14.0,902.0,64.43,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,606,Hectare,Tonnes,Tonnes/Hectare
+Hanumangarh,Rajasthan,2015,kharif,soyabean,6.0,4.0,0.67,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1009,Hectare,Tonnes,Tonnes/Hectare
+Tirunelveli,Tamil Nadu,2015,kharif,small millets,148.0,127.0,0.86,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108,Hectare,Tonnes,Tonnes/Hectare
+Dindigul,Tamil Nadu,2015,kharif,small millets,8.0,2.0,0.25,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108,Hectare,Tonnes,Tonnes/Hectare
+Surguja,Chhattisgarh,2015,rabi,potato,1904.0,12062.0,6.34,Vegetable,17.253,51.9,60.97725,1.4011667,Surguja,Chhattisgarh,120.0,Surguja,Chhattisgarh,,high_extreme,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Malkangiri,Odisha,2015,zaid,rice,3000.0,7000.0,2.33,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Aurangabad,Bihar,2017,rabi,barley,676.0,1445.0,2.14,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Alipurduar,West Bengal,2016,zaid,moong(green gram),254.0,232.0,0.91,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Udaipur,Rajasthan,2017,rabi,barley,9416.0,22399.0,2.38,Cereals,19.113333,10.14,32.326668,1.8239167,Udaipur,Rajasthan,120.0,Udaipur,Rajasthan,,,,,extreme,,,,,,,,,,low,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Datia,Madhya Pradesh,2018,whole_year,garlic,401.0,4010.0,10.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Pudukkottai,Tamil Nadu,2015,rabi,sesamum,654.0,183.0,0.28,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Coimbatore,Tamil Nadu,2016,whole_year,cashewnut,69.0,8.0,0.12,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,619,Hectare,Tonnes,Tonnes/Hectare
+Doda,Jammu And Kashmir,2015,rabi,barley,1395.0,448.1,0.32,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Peren,Nagaland,2017,kharif,sugarcane,520.0,22630.0,43.52,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Hoshangabad,Madhya Pradesh,2016,rabi,wheat,260000.0,1.17e+06,4.5,Cereals,21.932787,47.58,42.08186,1.5868306,Hoshangabad,Madhya Pradesh,183.0,Hoshangabad,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Madhepura,Bihar,2017,kharif,moong(green gram),248.0,169.0,0.68,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Katihar,Bihar,2015,rabi,khesari,815.0,761.0,0.93,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,208,Hectare,Tonnes,Tonnes/Hectare
+Raipur,Chhattisgarh,2018,whole_year,cotton(lint),28.0,70.0,2.5,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Sonitpur,Assam,2019,whole_year,ginger,714.0,7215.0,10.11,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Khowai,Tripura,2018,kharif,rice,1430.0,1581.24,1.11,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Karbi Anglong,Assam,2015,rabi,gram,465.0,357.0,0.77,Pulses,18.19925,78.37,72.97425,0.29141667,Karbi Anglong,Assam,120.0,Karbi Anglong,Assam,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Bhilwara,Rajasthan,2015,kharif,bajra,2170.0,1715.0,0.79,Cereals,29.395842,456.19,49.2757,2.7404673,Bhilwara,Rajasthan,214.0,Bhilwara,Rajasthan,,,,,high_extreme,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Shahdol,Madhya Pradesh,2019,rabi,wheat,64772.0,160829.0,2.48,Cereals,17.655167,58.2,58.033417,1.5064167,Shahdol,Madhya Pradesh,120.0,Shahdol,Madhya Pradesh,,moderate,,,extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Saharanpur,Uttar Pradesh,2017,kharif,dry chillies,57.0,52.0,0.91,Spices,29.618177,1038.48,54.57883,1.7976168,Saharanpur,Uttar Pradesh,214.0,Saharanpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Guntur,Andhra Pradesh,2018,rabi,arhar/tur,1060.0,716.0,0.68,Pulses,26.515385,160.14,64.57214,1.7299451,Guntur,Andhra Pradesh,182.0,Guntur,Andhra Pradesh,,,,low,,,,moderate,low,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Tiruvannamalai,Tamil Nadu,2018,kharif,maize,498.0,3777.0,7.58,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Yadagiri,Karnataka,2019,zaid,onion,193.0,2231.0,11.56,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Banas Kantha,Gujarat,2017,rabi,small millets,1575.0,2938.0,1.87,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108,Hectare,Tonnes,Tonnes/Hectare
+Vadodara,Gujarat,2015,zaid,moong(green gram),358.0,245.0,0.68,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Tirap,Arunachal Pradesh,2017,whole_year,ginger,46.0,224.0,4.87,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Araria,Bihar,2019,rabi,potato,1874.0,25760.0,13.75,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Etawah,Uttar Pradesh,2015,rabi,onion,38.0,447.0,11.76,Vegetable,20.79379,144.16,42.383408,1.5178022,Etawah,Uttar Pradesh,182.0,Etawah,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Dungarpur,Rajasthan,2019,whole_year,ginger,28.0,120.0,4.29,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Firozabad,Uttar Pradesh,2015,rabi,gram,465.0,330.0,0.71,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Satna,Madhya Pradesh,2018,kharif,moong(green gram),5170.0,1090.0,0.21,Pulses,29.738459,963.32,58.55355,2.3572898,Satna,Madhya Pradesh,214.0,Satna,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Narsinghpur,Madhya Pradesh,2017,kharif,moong(green gram),8500.0,6200.0,0.73,Pulses,29.521215,878.44,58.77145,2.3762617,Narsinghpur,Madhya Pradesh,214.0,Narsinghpur,Madhya Pradesh,,,,high_extreme,low,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Surguja,Chhattisgarh,2016,kharif,sannhamp,79.0,23.0,0.29,Fiber Crops,27.168037,1332.42,64.89341,2.2142522,Surguja,Chhattisgarh,214.0,Surguja,Chhattisgarh,,high_extreme,,,,,,,,,,,,,,,,,,1104,Hectare,Tonnes,Tonnes/Hectare
+Bilaspur,Himachal Pradesh,2019,kharif,moong(green gram),15.0,12.0,0.8,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Leh Ladakh,Ladakh,2017,rabi,other oilseeds,4.0,4.5,1.12,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1088,Hectare,Tonnes,Tonnes/Hectare
+Gariyaband,Chhattisgarh,2019,rabi,linseed,7.0,1.0,0.14,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Fatehpur,Uttar Pradesh,2017,rabi,garlic,923.0,4943.0,5.36,Spices,21.474121,22.25,41.42626,1.5793957,Fatehpur,Uttar Pradesh,182.0,Fatehpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Nayagarh,Odisha,2018,rabi,moong(green gram),15182.0,4524.2,0.3,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Peren,Nagaland,2019,kharif,peas & beans (pulses),220.0,299.0,1.36,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Hanumangarh,Rajasthan,2016,kharif,urad,76.0,49.0,0.64,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Chittorgarh,Rajasthan,2017,rabi,peas & beans (pulses),198.0,753.0,3.8,Pulses,21.724615,14.43,33.210384,1.7486264,Chittorgarh,Rajasthan,182.0,Chittorgarh,Rajasthan,,,,,high_extreme,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Baksa,Assam,2015,whole_year,potato,4270.0,23238.0,5.44,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Raichur,Karnataka,2017,zaid,groundnut,17817.0,23680.0,1.33,Oilseeds,31.839066,122.53,35.801403,2.6092525,Raichur,Karnataka,107.0,Raichur,Karnataka,,,,extreme,moderate,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Guntur,Andhra Pradesh,2016,rabi,sesamum,40.0,8.0,0.2,Oilseeds,26.28306,69.43,65.615845,1.994918,Guntur,Andhra Pradesh,183.0,Guntur,Andhra Pradesh,,,,low,,,,moderate,low,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Coimbatore,Tamil Nadu,2018,rabi,cotton(lint),171.0,445.0,2.6,Fiber Crops,24.040604,324.82,70.350716,1.5418131,Coimbatore,Tamil Nadu,182.0,Coimbatore,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Amreli,Gujarat,2015,rabi,onion,4278.0,127589.0,29.82,Vegetable,25.205055,14.02,38.186977,2.1754396,Amreli,Gujarat,182.0,Amreli,Gujarat,,,,,,,,high_extreme,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Uttara Kannada,Karnataka,2015,rabi,horse-gram,285.0,35.0,0.12,Pulses,26.030384,237.11,72.92242,1.850055,Uttara Kannada,Karnataka,182.0,Uttara Kannada,Karnataka,,,,,moderate,,,low,,,,low,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Sangareddy,Telangana,2016,kharif,cotton(lint),69740.0,149326.0,2.14,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+North Garo Hills,Meghalaya,2016,whole_year,turmeric,48.0,265.0,5.52,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,504,Hectare,Tonnes,Tonnes/Hectare
+Fatehgarh Sahib,Punjab,2019,rabi,sunflower,2400.0,4700.0,1.96,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1007,Hectare,Tonnes,Tonnes/Hectare
+Sambalpur,Odisha,2019,rabi,onion,1160.0,12130.0,10.46,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Coimbatore,Tamil Nadu,2015,rabi,cotton(lint),63.0,187.0,2.97,Fiber Crops,24.197363,359.39,70.59681,1.6707143,Coimbatore,Tamil Nadu,182.0,Coimbatore,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Madhubani,Bihar,2015,rabi,rice,122006.0,101520.0,0.83,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Salem,Tamil Nadu,2019,rabi,jowar,20188.0,21291.0,1.05,Cereals,26.07335,317.97,68.5461,1.9803296,Salem,Tamil Nadu,182.0,Salem,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+East Kameng,Arunachal Pradesh,2019,whole_year,dry chillies,104.0,312.0,3.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Korba,Chhattisgarh,2015,whole_year,turmeric,4.0,4.0,1.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,504,Hectare,Tonnes,Tonnes/Hectare
+Nawada,Bihar,2015,kharif,groundnut,185.0,189.0,1.02,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Sepahijala,Tripura,2018,rabi,wheat,32.0,68.72,2.15,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Dakshin Dinajpur,West Bengal,2017,zaid,sesamum,18.0,15.0,0.83,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Udupi,Karnataka,2017,whole_year,black pepper,477.0,313.1,0.66,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,501,Hectare,Tonnes,Tonnes/Hectare
+Erode,Tamil Nadu,2019,kharif,jowar,3.0,4.0,1.33,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Srikakulam,Andhra Pradesh,2018,kharif,jowar,8.0,1.0,0.12,Cereals,28.520607,1243.41,76.57972,2.4897664,Srikakulam,Andhra Pradesh,214.0,Srikakulam,Andhra Pradesh,,,,,,,,high_extreme,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Ajmer,Rajasthan,2017,rabi,rapeseed &mustard,23834.0,40652.0,1.71,Oilseeds,17.983084,20.3,31.873333,1.79075,Ajmer,Rajasthan,120.0,Ajmer,Rajasthan,,,,,,extreme,,,,,,,,,moderate,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Senapati,Manipur,2018,rabi,masoor,70.0,64.0,0.91,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Nawada,Bihar,2015,rabi,khesari,317.0,248.0,0.78,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,208,Hectare,Tonnes,Tonnes/Hectare
+Etawah,Uttar Pradesh,2019,zaid,sunflower,13.0,18.0,1.38,Oilseeds,32.167103,18.12,24.257477,2.2492523,Etawah,Uttar Pradesh,107.0,Etawah,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,1007,Hectare,Tonnes,Tonnes/Hectare
+Alappuzha,Kerala,2019,whole_year,sugarcane,36.01,2704.65,75.11,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Pakur,Jharkhand,2018,kharif,arhar/tur,8001.0,5161.0,0.65,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Pondicherry,Puducherry,2019,zaid,ragi,23.0,55.0,2.39,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,105,Hectare,Tonnes,Tonnes/Hectare
+Kamrup,Assam,2016,rabi,rapeseed &mustard,11852.0,4512.0,0.38,Oilseeds,21.899017,230.84,72.11295,1.7261202,Kamrup,Assam,183.0,Kamrup,Assam,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Shivamogga,Karnataka,2015,kharif,maize,48558.0,194946.0,4.01,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+West Kameng,Arunachal Pradesh,2019,kharif,rice,964.0,1710.0,1.77,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Devbhumi Dwarka,Gujarat,2019,rabi,onion,25.0,732.0,29.28,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Jashpur,Chhattisgarh,2018,whole_year,banana,19.0,249.0,13.11,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,606,Hectare,Tonnes,Tonnes/Hectare
+Azamgarh,Uttar Pradesh,2015,rabi,tobacco,7.0,31.0,4.43,Drugs And Narcotics,19.280582,52.73,43.06175,1.5271667,Azamgarh,Uttar Pradesh,120.0,Azamgarh,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
+Jind,Haryana,2018,whole_year,onion,755.0,18662.0,24.72,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Patiala,Punjab,2015,rabi,wheat,234000.0,1.073e+06,4.59,Cereals,18.485825,160.85,44.006428,1.704011,Patiala,Punjab,182.0,Patiala,Punjab,,,,,,high_extreme,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Madurai,Tamil Nadu,2015,rabi,moong(green gram),927.0,485.0,0.52,Pulses,24.602917,330.13,78.75575,2.11025,Madurai,Tamil Nadu,120.0,Madurai,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Patna,Bihar,2019,rabi,gram,6053.0,4564.0,0.75,Pulses,20.586702,64.15,58.54599,1.5828022,Patna,Bihar,182.0,Patna,Bihar,,,,,,high_extreme,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Pratapgarh,Uttar Pradesh,2016,rabi,maize,36.0,101.0,2.81,Cereals,17.951834,10.92,47.66033,1.5101666,Pratapgarh,Uttar Pradesh,120.0,Pratapgarh,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Salem,Tamil Nadu,2019,rabi,moong(green gram),926.0,393.0,0.42,Pulses,26.07335,317.97,68.5461,1.9803296,Salem,Tamil Nadu,182.0,Salem,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Farrukhabad,Uttar Pradesh,2019,rabi,coriander,9.0,6.0,0.67,Spices,16.570583,84.58,53.686333,1.6635833,Farrukhabad,Uttar Pradesh,120.0,Farrukhabad,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Kaimur (Bhabua),Bihar,2016,rabi,sunflower,1.0,1.0,1.0,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1007,Hectare,Tonnes,Tonnes/Hectare
+Vizianagaram,Andhra Pradesh,2016,rabi,sweet potato,43.0,359.0,8.35,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Kaushambi,Uttar Pradesh,2016,kharif,jowar,7137.0,4926.0,0.69,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Rangareddi,Telangana,2016,rabi,ragi,1.0,1.0,1.0,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,105,Hectare,Tonnes,Tonnes/Hectare
+Bahraich,Uttar Pradesh,2016,rabi,coriander,178.0,93.0,0.52,Spices,21.211256,77.92,40.363224,1.5579782,Bahraich,Uttar Pradesh,183.0,Bahraich,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Krishnagiri,Tamil Nadu,2018,whole_year,sugarcane,555.0,57037.0,102.77,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Kanchipuram,Tamil Nadu,2019,kharif,onion,1.0,6.0,6.0,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Kurnool,Andhra Pradesh,2015,rabi,dry chillies,440.0,1212.0,2.75,Spices,24.542166,32.06,56.109333,2.38825,Kurnool,Andhra Pradesh,120.0,Kurnool,Andhra Pradesh,,,,,moderate,,,,extreme,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Bilaspur,Himachal Pradesh,2017,rabi,onion,65.0,469.0,7.22,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Sultanpur,Uttar Pradesh,2019,kharif,bajra,214.0,463.0,2.16,Cereals,31.016542,1136.89,59.300655,2.2483644,Sultanpur,Uttar Pradesh,214.0,Sultanpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Pudukkottai,Tamil Nadu,2019,whole_year,sugarcane,2333.0,285922.0,122.56,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Khowai,Tripura,2019,rabi,peas & beans (pulses),534.0,507.0,0.95,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Coochbehar,West Bengal,2016,rabi,moong(green gram),247.0,198.0,0.8,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Nagaon,Assam,2015,whole_year,tapioca,14.0,132.0,9.43,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,702,Hectare,Tonnes,Tonnes/Hectare
+Bageshwar,Uttarakhand,2017,whole_year,ginger,19.0,92.0,4.84,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Chamoli,Uttarakhand,2015,rabi,masoor,57.0,43.0,0.75,Pulses,0.7355,70.46,53.588585,1.4550834,Chamoli,Uttarakhand,120.0,Chamoli,Uttarakhand,,,,,,,,,,,,,,,,,,high_extreme,,205,Hectare,Tonnes,Tonnes/Hectare
+Madurai,Tamil Nadu,2018,rabi,other  rabi pulses,217.0,157.0,0.72,Pulses,25.848078,331.3,71.93429,1.9772527,Madurai,Tamil Nadu,182.0,Madurai,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Pakur,Jharkhand,2017,kharif,moong(green gram),86.0,56.0,0.65,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Udhampur,Jammu And Kashmir,2018,kharif,moong(green gram),14.0,7.0,0.5,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Sidhi,Madhya Pradesh,2019,zaid,moong(green gram),225.0,150.0,0.67,Pulses,31.506075,41.02,24.180935,2.186355,Sidhi,Madhya Pradesh,107.0,Sidhi,Madhya Pradesh,,extreme,,,low,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Medak,Telangana,2018,rabi,gram,281.0,338.0,1.2,Pulses,24.850824,32.03,40.44132,1.9013736,Medak,Telangana,182.0,Medak,Telangana,,,,,low,,,,extreme,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Jehanabad,Bihar,2015,rabi,khesari,6176.0,5694.0,0.92,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,208,Hectare,Tonnes,Tonnes/Hectare
+Villupuram,Tamil Nadu,2016,kharif,sunflower,5.0,4.0,0.8,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1007,Hectare,Tonnes,Tonnes/Hectare
+Godda,Jharkhand,2017,rabi,linseed,3469.0,145.0,0.0,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Churachandpur,Manipur,2015,kharif,ginger,344.0,4086.0,11.88,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Aurangabad,Maharashtra,2019,rabi,gram,62755.0,63036.0,1.0,Pulses,20.846083,32.38,53.377583,1.8973334,Aurangabad,Maharashtra,120.0,Aurangabad,Maharashtra,,,,low,high_extreme,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Betul,Madhya Pradesh,2017,rabi,rapeseed &mustard,1200.0,1270.0,1.06,Oilseeds,22.07577,58.63,42.41313,1.6352748,Betul,Madhya Pradesh,182.0,Betul,Madhya Pradesh,,,,,high_extreme,,very_low,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Madurai,Tamil Nadu,2018,rabi,bajra,438.0,1037.0,2.37,Cereals,25.848078,331.3,71.93429,1.9772527,Madurai,Tamil Nadu,182.0,Madurai,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Kurukshetra,Haryana,2017,rabi,other oilseeds,100.0,100.0,1.0,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1088,Hectare,Tonnes,Tonnes/Hectare
+Nagaon,Assam,2016,whole_year,potato,6817.0,44448.0,6.52,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Junagadh,Gujarat,2016,rabi,onion,980.0,19783.0,20.19,Vegetable,24.666885,64.68,43.097485,2.0640984,Junagadh,Gujarat,183.0,Junagadh,Gujarat,,,,,moderate,,,moderate,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Udalguri,Assam,2015,rabi,peas & beans (pulses),496.0,820.0,1.65,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Sri Potti Sriramulu Nellore,Andhra Pradesh,2019,kharif,niger seed,6362.0,32214.0,5.06,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1010,Hectare,Tonnes,Tonnes/Hectare
+Tuensang,Nagaland,2017,rabi,masoor,220.0,180.0,0.82,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Gyalshing,Sikkim,2018,kharif,urad,518.0,461.0,0.89,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Raichur,Karnataka,2018,zaid,groundnut,33281.0,26369.0,0.79,Oilseeds,31.310654,101.5,39.596916,2.5809345,Raichur,Karnataka,107.0,Raichur,Karnataka,,,,extreme,moderate,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Chhindwara,Madhya Pradesh,2017,kharif,urad,10500.0,9280.0,0.88,Pulses,27.925701,929.28,60.974113,2.4841123,Chhindwara,Madhya Pradesh,214.0,Chhindwara,Madhya Pradesh,,,,very_low,high_extreme,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Dhamtari,Chhattisgarh,2015,whole_year,banana,41.0,875.0,21.34,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,606,Hectare,Tonnes,Tonnes/Hectare
+Ramanagara,Karnataka,2019,whole_year,coconut,29578.0,2.12677e+08,7190.38,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1006,Hectare,Tonnes,Tonnes/Hectare
+Botad,Gujarat,2016,kharif,arhar/tur,784.0,887.0,1.13,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Dungarpur,Rajasthan,2015,rabi,other  rabi pulses,212.0,212.0,1.0,Pulses,22.49478,30.7,34.060276,1.9156044,Dungarpur,Rajasthan,182.0,Dungarpur,Rajasthan,,,,,high_extreme,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Thiruvananthapuram,Kerala,2017,whole_year,tapioca,14956.0,538976.0,36.04,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,702,Hectare,Tonnes,Tonnes/Hectare
+North Garo Hills,Meghalaya,2016,kharif,soyabean,108.0,114.0,1.06,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1009,Hectare,Tonnes,Tonnes/Hectare
+Jhansi,Uttar Pradesh,2016,kharif,arhar/tur,2091.0,1973.0,0.94,Pulses,30.93799,802.72,55.875328,2.1804206,Jhansi,Uttar Pradesh,214.0,Jhansi,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Nainital,Uttarakhand,2017,rabi,peas & beans (pulses),59.0,51.0,0.86,Pulses,15.917802,75.26,47.015438,1.4581869,Nainital,Uttarakhand,182.0,Nainital,Uttarakhand,,,,,,high_extreme,,,,,,,,,,,,very_low,,213,Hectare,Tonnes,Tonnes/Hectare
+Beed,Maharashtra,2019,kharif,groundnut,4519.0,1993.0,0.44,Oilseeds,28.59098,589.13,58.492523,3.4821963,Beed,Maharashtra,214.0,Beed,Maharashtra,,,,,high_extreme,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Kolasib,Mizoram,2015,rabi,maize,126.0,152.0,1.21,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Rewari,Haryana,2019,kharif,groundnut,3.0,4.0,1.33,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Auraiya,Uttar Pradesh,2015,kharif,sweet potato,8.0,96.0,12.0,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Karimganj,Assam,2017,kharif,castor seed,1.0,1.0,1.0,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1002,Hectare,Tonnes,Tonnes/Hectare
+Rewa,Madhya Pradesh,2018,rabi,rapeseed &mustard,6960.0,3731.0,0.54,Oilseeds,19.04275,14.58,40.637085,1.5245833,Rewa,Madhya Pradesh,120.0,Rewa,Madhya Pradesh,,very_low,,,extreme,low,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Jangoan,Telangana,2018,rabi,tobacco,22.0,115.0,5.23,Drugs And Narcotics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
+Tehri Garhwal,Uttarakhand,2019,rabi,gram,4.0,3.0,0.75,Pulses,5.625583,230.28,56.117332,1.268,Tehri Garhwal,Uttarakhand,120.0,Tehri Garhwal,Uttarakhand,,,,,,,,,,,,,,,,,,high_extreme,,201,Hectare,Tonnes,Tonnes/Hectare
+Belagavi,Karnataka,2017,zaid,potato,4.0,62.0,15.5,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Botad,Gujarat,2017,kharif,urad,240.0,152.0,0.63,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Narsinghpur,Madhya Pradesh,2019,rabi,masoor,18956.0,14596.0,0.77,Pulses,18.646,28.16,54.315334,1.6175,Narsinghpur,Madhya Pradesh,120.0,Narsinghpur,Madhya Pradesh,,,,high_extreme,low,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Nainital,Uttarakhand,2015,whole_year,turmeric,122.0,236.0,1.93,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,504,Hectare,Tonnes,Tonnes/Hectare
+Vadodara,Gujarat,2017,zaid,bajra,4181.0,9793.0,2.34,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Srikakulam,Andhra Pradesh,2015,rabi,urad,41443.0,26524.0,0.64,Pulses,24.575384,264.41,70.23632,1.727967,Srikakulam,Andhra Pradesh,182.0,Srikakulam,Andhra Pradesh,,,,,,,,high_extreme,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Kondagaon,Chhattisgarh,2018,kharif,arhar/tur,106.0,53.0,0.5,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Mahabubnagar,Telangana,2016,kharif,urad,570.0,466.0,0.82,Pulses,27.845327,643.0,65.6164,3.2254205,Mahabubnagar,Telangana,214.0,Mahabubnagar,Telangana,,,,moderate,low,,,,moderate,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Jhajjar,Haryana,2016,whole_year,onion,1575.0,31268.0,19.85,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Bemetara,Chhattisgarh,2019,rabi,masoor,2652.0,1019.0,0.38,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Purbi Champaran,Bihar,2018,rabi,onion,544.0,7406.0,13.61,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Palakkad,Kerala,2016,whole_year,arhar/tur,176.0,278.0,1.58,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Narsinghpur,Madhya Pradesh,2019,kharif,soyabean,27799.0,19598.0,0.7,Oilseeds,29.51285,1624.19,60.309204,2.3240654,Narsinghpur,Madhya Pradesh,214.0,Narsinghpur,Madhya Pradesh,,,,high_extreme,low,,,,,,,,,,,,,,,1009,Hectare,Tonnes,Tonnes/Hectare
+Dumka,Jharkhand,2017,kharif,maize,21510.0,64530.0,3.0,Cereals,29.253084,1489.11,74.49715,2.063645,Dumka,Jharkhand,214.0,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Bharuch,Gujarat,2016,rabi,other  rabi pulses,5250.0,3885.0,0.74,Pulses,25.247705,87.57,41.50344,1.7515846,Bharuch,Gujarat,183.0,Bharuch,Gujarat,,,,extreme,,,,low,,,very_low,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Cachar,Assam,2015,rabi,arecanut,4252.0,2563.0,0.6,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,507,Hectare,Tonnes,Tonnes/Hectare
+Bhadradri,Telangana,2018,kharif,sesamum,27.0,5.0,0.19,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Tiruvannamalai,Tamil Nadu,2017,rabi,gram,5.0,5.0,1.0,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Gwalior,Madhya Pradesh,2017,whole_year,garlic,400.0,5200.0,13.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Kangra,Himachal Pradesh,2019,rabi,rapeseed &mustard,2356.0,1602.0,0.68,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Satara,Maharashtra,2017,rabi,other cereals,33.0,12.0,0.36,Cereals,21.279083,5.49,52.00975,1.99025,Satara,Maharashtra,120.0,Satara,Maharashtra,,,,moderate,,,,,,,,extreme,,,,,,,,188,Hectare,Tonnes,Tonnes/Hectare
+Davangere,Karnataka,2016,rabi,cotton(lint),48.0,15.0,0.31,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Sonitpur,Assam,2015,kharif,jute,3886.0,36871.0,9.49,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1102,Hectare,Tonnes,Tonnes/Hectare
+Farrukhabad,Uttar Pradesh,2018,rabi,onion,282.0,4365.0,15.48,Vegetable,17.274166,14.27,42.746334,1.6659167,Farrukhabad,Uttar Pradesh,120.0,Farrukhabad,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Cuddalore,Tamil Nadu,2019,rabi,urad,48414.0,38934.0,0.8,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Raichur,Karnataka,2019,rabi,ragi,59.0,84.0,1.42,Cereals,25.89577,125.18,54.409176,2.0708792,Raichur,Karnataka,182.0,Raichur,Karnataka,,,,extreme,moderate,,,,,,,,,,,,,,,105,Hectare,Tonnes,Tonnes/Hectare
+Imphal East,Manipur,2015,kharif,other kharif pulses,82.0,94.0,1.15,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Supaul,Bihar,2015,kharif,urad,847.0,760.0,0.9,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Auraiya,Uttar Pradesh,2015,kharif,rice,53479.0,150811.0,2.82,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Rajgarh,Madhya Pradesh,2018,rabi,masoor,47253.0,37708.0,0.8,Pulses,22.109615,8.26,35.718517,1.5741209,Rajgarh,Madhya Pradesh,182.0,Rajgarh,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Sagar,Madhya Pradesh,2019,rabi,gram,127931.0,206992.0,1.62,Pulses,17.452583,29.47,56.07567,1.63175,Sagar,Madhya Pradesh,120.0,Sagar,Madhya Pradesh,,,,moderate,moderate,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Tirap,Arunachal Pradesh,2019,kharif,small millets,1636.0,1366.0,0.83,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,108,Hectare,Tonnes,Tonnes/Hectare
+Dakshina Kannada,Karnataka,2019,whole_year,coriander,2.0,1.0,0.5,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Tikamgarh,Madhya Pradesh,2019,kharif,soyabean,7024.0,2943.0,0.42,Oilseeds,30.424906,919.68,57.75056,2.1636448,Tikamgarh,Madhya Pradesh,214.0,Tikamgarh,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,1009,Hectare,Tonnes,Tonnes/Hectare
+Durg,Chhattisgarh,2018,kharif,sesamum,165.0,52.0,0.32,Oilseeds,28.689112,1063.3,65.73636,2.7250466,Durg,Chhattisgarh,214.0,Durg,Chhattisgarh,extreme,moderate,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Mahabubabad,Telangana,2016,rabi,groundnut,8371.0,10874.0,1.3,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Jehanabad,Bihar,2015,kharif,mesta,15.0,293.0,19.53,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1103,Hectare,Tonnes,Tonnes/Hectare
+Khargone,Madhya Pradesh,2018,rabi,peas & beans (pulses),12.0,6.0,0.5,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Giridih,Jharkhand,2018,kharif,arhar/tur,7269.0,9886.0,1.36,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Adilabad,Telangana,2015,rabi,wheat,2728.0,13329.0,4.89,Cereals,25.021374,81.38,47.734505,1.7711538,Adilabad,Telangana,182.0,Adilabad,Telangana,,,,,moderate,,,,moderate,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Madurai,Tamil Nadu,2019,kharif,onion,121.0,1110.0,9.17,Vegetable,29.419065,742.9,63.962242,2.1014953,Madurai,Tamil Nadu,214.0,Madurai,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Gorakhpur,Uttar Pradesh,2017,kharif,sweet potato,6.0,67.0,11.17,Vegetable,31.12313,1017.59,59.816216,2.0256076,Gorakhpur,Uttar Pradesh,214.0,Gorakhpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Sehore,Madhya Pradesh,2015,kharif,rice,24000.0,98660.0,4.11,Cereals,28.797523,1234.09,59.241215,2.8804672,Sehore,Madhya Pradesh,214.0,Sehore,Madhya Pradesh,,,,moderate,extreme,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Kishanganj,Bihar,2018,kharif,jute,15358.0,157677.0,10.27,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1102,Hectare,Tonnes,Tonnes/Hectare
+Katihar,Bihar,2016,rabi,maize,44563.0,534132.0,11.99,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Nirmal,Telangana,2016,rabi,arhar/tur,210.0,232.0,1.1,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Visakhapatanam,Andhra Pradesh,2019,rabi,other  rabi pulses,10531.0,10910.0,1.04,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Shravasti,Uttar Pradesh,2018,kharif,guar seed,47.0,34.0,0.72,Fodder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1401,Hectare,Tonnes,Tonnes/Hectare
+Bijapur,Chhattisgarh,2018,kharif,niger seed,1.0,1314.0,0.0,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1010,Hectare,Tonnes,Tonnes/Hectare
+Agra,Uttar Pradesh,2015,zaid,maize,175.0,324.0,1.85,Cereals,30.112991,144.86,34.120373,2.0414953,Agra,Uttar Pradesh,107.0,Agra,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Cuttack,Odisha,2019,rabi,rapeseed &mustard,8.0,2.6,0.32,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Pashchim Medinipur,West Bengal,2015,rabi,peas & beans (pulses),94.0,69.0,0.73,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Mahoba,Uttar Pradesh,2017,kharif,rice,36.0,70.0,1.94,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Barabanki,Uttar Pradesh,2015,zaid,urad,563.0,274.0,0.49,Pulses,30.501963,140.82,35.141777,2.1917758,Barabanki,Uttar Pradesh,107.0,Barabanki,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Darjeeling,West Bengal,2017,rabi,moong(green gram),26.0,20.0,0.77,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+The Nilgiris,Tamil Nadu,2015,whole_year,ginger,323.0,2855.0,8.84,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Longding,Arunachal Pradesh,2018,rabi,rapeseed &mustard,230.0,231.0,1.0,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Singrauli,Madhya Pradesh,2018,whole_year,sugarcane,17.0,560.0,32.94,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Murshidabad,West Bengal,2018,rabi,masoor,42270.0,35111.0,0.83,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Bokaro,Jharkhand,2018,kharif,soyabean,163.0,196.0,1.2,Oilseeds,28.34243,1296.04,72.32145,2.0099065,Bokaro,Jharkhand,214.0,,,,,,,,,,,,,,,,,,,,,,1009,Hectare,Tonnes,Tonnes/Hectare
+Aligarh,Uttar Pradesh,2017,rabi,onion,56.0,818.0,14.61,Vegetable,17.21475,30.74,39.082,1.8095833,Aligarh,Uttar Pradesh,120.0,Aligarh,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Chitradurga,Karnataka,2019,whole_year,cashewnut,29.0,41.0,1.41,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,619,Hectare,Tonnes,Tonnes/Hectare
+East Godavari,Andhra Pradesh,2016,rabi,horse-gram,17.0,9.0,0.53,Pulses,25.917377,82.79,68.630165,1.7780874,East Godavari,Andhra Pradesh,183.0,East Godavari,Andhra Pradesh,,,,,,,,extreme,low,,,,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Kullu,Himachal Pradesh,2015,kharif,groundnut,15.0,17.0,1.13,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Udam Singh Nagar,Uttarakhand,2018,kharif,arhar/tur,2.0,1.0,0.5,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Golaghat,Assam,2017,whole_year,black pepper,334.0,814.0,2.44,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,501,Hectare,Tonnes,Tonnes/Hectare
+Pudukkottai,Tamil Nadu,2018,kharif,castor seed,1.0,39.0,0.0,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1002,Hectare,Tonnes,Tonnes/Hectare
+Jaisalmer,Rajasthan,2018,rabi,rapeseed &mustard,46939.0,50691.0,1.08,Oilseeds,19.92175,0.56,23.38775,1.73375,Jaisalmer,Rajasthan,120.0,Jaisalmer,Rajasthan,,,,,,,,,,,,,,,high_extreme,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Jhabua,Madhya Pradesh,2018,kharif,arhar/tur,992.0,540.0,0.54,Pulses,28.22528,731.19,59.0643,3.159159,Jhabua,Madhya Pradesh,214.0,Jhabua,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Nandurbar,Maharashtra,2015,kharif,arhar/tur,13600.0,4200.0,0.31,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Saran,Bihar,2017,rabi,rapeseed &mustard,3638.0,5162.0,1.42,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+East Godavari,Andhra Pradesh,2018,rabi,urad,15641.0,10104.0,0.65,Pulses,24.946333,117.07,66.01375,1.8330834,East Godavari,Andhra Pradesh,120.0,East Godavari,Andhra Pradesh,,,,,,,,extreme,low,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Kalahandi,Odisha,2017,kharif,maize,1237.0,1723.9,1.39,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Pratapgarh,Rajasthan,2018,rabi,wheat,70294.0,286092.0,4.07,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Sri Potti Sriramulu Nellore,Andhra Pradesh,2018,rabi,rice,140225.0,591174.0,4.22,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Auraiya,Uttar Pradesh,2016,rabi,potato,4945.0,142347.0,28.79,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Harda,Madhya Pradesh,2015,whole_year,ginger,98.0,1147.0,11.7,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Chitrakoot,Uttar Pradesh,2016,kharif,dry chillies,31.0,29.0,0.94,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Lohardaga,Jharkhand,2018,rabi,maize,20.0,30.0,1.5,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Sundargarh,Odisha,2015,rabi,moong(green gram),7.0,2.0,0.29,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Khammam,Telangana,2019,kharif,sesamum,5.0,1.0,0.2,Oilseeds,29.943926,819.22,66.16467,2.5167289,Khammam,Telangana,214.0,Khammam,Telangana,,,,extreme,,,,,,moderate,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Betul,Madhya Pradesh,2019,rabi,wheat,264808.0,693267.0,2.62,Cereals,18.948,27.48,53.282833,1.7533333,Betul,Madhya Pradesh,120.0,Betul,Madhya Pradesh,,,,,high_extreme,,very_low,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Chamarajanagara,Karnataka,2017,rabi,gram,2131.0,1530.0,0.72,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Hassan,Karnataka,2018,rabi,maize,1387.0,3133.0,2.26,Cereals,21.9365,35.48,60.385,1.62925,Hassan,Karnataka,120.0,Hassan,Karnataka,,,,,,,,,high_extreme,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Papum Pare,Arunachal Pradesh,2016,kharif,peas & beans (pulses),29.0,29.0,1.0,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Simdega,Jharkhand,2018,kharif,ragi,2007.0,1606.0,0.8,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,105,Hectare,Tonnes,Tonnes/Hectare
+Garhwa,Jharkhand,2016,rabi,gram,4818.0,8725.0,1.81,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Sri Potti Sriramulu Nellore,Andhra Pradesh,2016,rabi,tobacco,4154.0,4407.0,1.06,Drugs And Narcotics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
+Hamirpur,Uttar Pradesh,2019,rabi,onion,81.0,1155.0,14.26,Vegetable,16.89075,45.66,60.385834,1.4080833,Hamirpur,Uttar Pradesh,120.0,Hamirpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Jayashankar,Telangana,2016,rabi,dry chillies,4343.0,27326.0,6.29,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Anand,Gujarat,2016,zaid,sesamum,16.0,8.0,0.5,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Mon,Nagaland,2018,kharif,moong(green gram),3690.0,4270.0,1.16,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Saraikela Kharsawan,Jharkhand,2019,kharif,bajra,19.0,9.0,0.47,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Dima Hasao,Assam,2018,kharif,niger seed,16.0,8.0,0.5,Oilseeds,24.803038,1380.68,84.937614,0.12892523,Dima Hasao,Assam,214.0,,,,,,,,,,,,,,,,,,,,,,1010,Hectare,Tonnes,Tonnes/Hectare
+Haveri,Karnataka,2015,rabi,wheat,983.0,415.0,0.42,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Mahabubnagar,Telangana,2015,rabi,maize,2757.0,10929.0,3.96,Cereals,24.017,18.38,53.070583,2.3549166,Mahabubnagar,Telangana,120.0,Mahabubnagar,Telangana,,,,moderate,low,,,,moderate,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Thiruvallur,Tamil Nadu,2018,whole_year,cashewnut,166.0,37.0,0.22,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,619,Hectare,Tonnes,Tonnes/Hectare
+Golaghat,Assam,2019,rabi,gram,3.0,2.0,0.67,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Dhubri,Assam,2018,whole_year,potato,4038.0,36199.0,8.96,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Jaunpur,Uttar Pradesh,2019,rabi,peas & beans (pulses),5548.0,8294.0,1.49,Pulses,16.854918,62.82,64.545,1.5335833,Jaunpur,Uttar Pradesh,120.0,Jaunpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Betul,Madhya Pradesh,2017,kharif,jowar,7500.0,17330.0,2.31,Cereals,27.779392,916.72,61.665794,2.6197197,Betul,Madhya Pradesh,214.0,Betul,Madhya Pradesh,,,,,high_extreme,,very_low,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Barnala,Punjab,2015,whole_year,sugarcane,1000.0,88000.0,88.0,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Deoghar,Jharkhand,2017,rabi,sunflower,74.0,41.0,0.55,Oilseeds,21.041044,267.67,61.289616,1.627088,Deoghar,Jharkhand,182.0,,,,,,,,,,,,,,,,,,,,,,1007,Hectare,Tonnes,Tonnes/Hectare
+Shimla,Himachal Pradesh,2016,kharif,sesamum,9.0,2.0,0.22,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Deoria,Uttar Pradesh,2017,rabi,masoor,585.0,487.0,0.83,Pulses,21.326649,24.33,49.291485,1.6239011,Deoria,Uttar Pradesh,182.0,Deoria,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Gomati,Tripura,2016,kharif,sesamum,801.0,471.0,0.59,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Gaurella-Pendra-Marwahi,Chhattisgarh,2019,kharif,moong(green gram),2.0,1.0,0.5,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Kapurthala,Punjab,2018,rabi,peas & beans (pulses),100.0,200.0,2.0,Pulses,15.429833,52.98,42.69575,1.4086666,Kapurthala,Punjab,120.0,Kapurthala,Punjab,,,,,,high_extreme,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Zunheboto,Nagaland,2015,kharif,horse-gram,40.0,40.0,1.0,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Tinsukia,Assam,2019,kharif,arhar/tur,76.0,43.0,0.57,Pulses,28.143084,2434.31,77.65477,0.30813083,Tinsukia,Assam,214.0,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Bokaro,Jharkhand,2016,kharif,urad,6.0,6.0,1.0,Pulses,29.13355,1473.6,68.503975,2.0786915,Bokaro,Jharkhand,214.0,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Dumka,Jharkhand,2019,rabi,masoor,3182.0,3214.0,1.01,Pulses,18.549583,47.63,64.30666,1.66875,Dumka,Jharkhand,120.0,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Kolhapur,Maharashtra,2018,kharif,arhar/tur,1887.0,2504.0,1.33,Pulses,25.307756,1287.19,75.39804,3.461916,Kolhapur,Maharashtra,214.0,Kolhapur,Maharashtra,,,,moderate,moderate,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Pithoragarh,Uttarakhand,2019,rabi,peas & beans (pulses),209.0,120.0,0.57,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Satara,Maharashtra,2019,rabi,rapeseed &mustard,64.0,11.0,0.17,Oilseeds,21.933083,12.53,56.854332,1.99475,Satara,Maharashtra,120.0,Satara,Maharashtra,,,,moderate,,,,,,,,extreme,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Kurnool,Andhra Pradesh,2017,kharif,sesamum,8.0,2.0,0.25,Oilseeds,28.979626,682.35,63.52757,2.8413084,Kurnool,Andhra Pradesh,214.0,Kurnool,Andhra Pradesh,,,,,moderate,,,,extreme,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Kota,Rajasthan,2016,kharif,sesamum,2378.0,861.0,0.36,Oilseeds,29.633364,1136.62,57.85547,2.716869,Kota,Rajasthan,214.0,Kota,Rajasthan,,,,,high_extreme,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Sawai Madhopur,Rajasthan,2016,whole_year,dry chillies,2646.0,7938.0,3.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Bharatpur,Rajasthan,2018,rabi,other  rabi pulses,1.0,1.0,1.0,Pulses,20.610054,13.89,37.801594,1.4436264,Bharatpur,Rajasthan,182.0,Bharatpur,Rajasthan,,,,,,high_extreme,,,,,,,,,,very_low,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Ranchi,Jharkhand,2019,rabi,gram,9565.0,9565.0,1.0,Pulses,18.472363,244.21,65.1717,1.5185165,Ranchi,Jharkhand,182.0,Ranchi,Jharkhand,,high_extreme,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Niwari,Madhya Pradesh,2019,rabi,linseed,3.0,3.0,1.0,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Nalbari,Assam,2016,rabi,peas & beans (pulses),1184.0,1421.0,1.2,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Jalpaiguri,West Bengal,2018,kharif,moong(green gram),470.0,223.0,0.47,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Chittoor,Andhra Pradesh,2016,rabi,dry chillies,2208.0,4961.0,2.25,Spices,23.80153,130.39,66.77065,1.9367213,Chittoor,Andhra Pradesh,183.0,Chittoor,Andhra Pradesh,,,,,,,,low,high_extreme,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Nainital,Uttarakhand,2017,rabi,other oilseeds,3.0,2.0,0.67,Oilseeds,14.1645,55.23,46.04,1.3891667,Nainital,Uttarakhand,120.0,Nainital,Uttarakhand,,,,,,high_extreme,,,,,,,,,,,,very_low,,1088,Hectare,Tonnes,Tonnes/Hectare
+Dharwad,Karnataka,2018,rabi,urad,12.0,6.0,0.5,Pulses,23.629417,13.38,44.758167,1.86625,Dharwad,Karnataka,120.0,Dharwad,Karnataka,,,,low,extreme,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Mamit,Mizoram,2019,kharif,maize,888.0,1066.0,1.2,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Ratlam,Madhya Pradesh,2018,rabi,rapeseed &mustard,4126.0,5017.0,1.22,Oilseeds,22.643791,1.7,32.783737,1.6938461,Ratlam,Madhya Pradesh,182.0,Ratlam,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Gurgaon,Haryana,2018,kharif,guar seed,548.0,438.0,0.8,Fodder,30.57145,737.61,51.615654,1.888084,Gurgaon,Haryana,214.0,Gurgaon,Haryana,,,,,,high_extreme,,,,,,,,,,,,,,1401,Hectare,Tonnes,Tonnes/Hectare
+Visakhapatanam,Andhra Pradesh,2019,whole_year,black pepper,17215.0,17215.0,1.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,501,Hectare,Tonnes,Tonnes/Hectare
+Sahebganj,Jharkhand,2019,kharif,jowar,38.0,25.0,0.66,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Kohima,Nagaland,2018,kharif,sesamum,390.0,240.0,0.62,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Chittorgarh,Rajasthan,2015,kharif,sannhamp,26.0,32.0,1.23,Fiber Crops,29.265327,572.07,53.46509,2.8222897,Chittorgarh,Rajasthan,214.0,Chittorgarh,Rajasthan,,,,,high_extreme,,,,,,,,,,,,,,,1104,Hectare,Tonnes,Tonnes/Hectare
+Jagatsinghapur,Odisha,2015,kharif,rice,1000.0,2000.0,2.0,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Bikaner,Rajasthan,2015,kharif,moth,253116.0,71659.0,0.28,Pulses,31.712055,381.12,39.773643,2.5950468,Bikaner,Rajasthan,214.0,Bikaner,Rajasthan,,,,,,,,,,,,,,,high_extreme,,,,,209,Hectare,Tonnes,Tonnes/Hectare
+Mewat,Haryana,2015,whole_year,potato,505.0,12581.0,24.91,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Lalitpur,Uttar Pradesh,2016,rabi,garlic,8.0,51.0,6.38,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Kamrup,Assam,2015,kharif,sesamum,251.0,149.0,0.59,Oilseeds,28.046963,2004.94,79.27593,2.2603738,Kamrup,Assam,214.0,Kamrup,Assam,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Bishnupur,Manipur,2016,whole_year,banana,820.0,11152.0,13.6,Fruits,,,,,,,,,,,,,,,,,,,,,,,,,,,,,606,Hectare,Tonnes,Tonnes/Hectare
+Guna,Madhya Pradesh,2017,rabi,masoor,800.0,980.0,1.23,Pulses,19.275417,10.83,35.5415,1.6418333,Guna,Madhya Pradesh,120.0,Guna,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Osmanabad,Maharashtra,2017,kharif,cotton(lint),13448.0,8000.0,0.59,Fiber Crops,27.948645,686.48,59.861355,3.057757,Osmanabad,Maharashtra,214.0,Osmanabad,Maharashtra,,,,,high_extreme,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Nainital,Uttarakhand,2020,kharif,arhar/tur,5.0,3.0,0.6,Pulses,23.78757,1056.09,65.841446,1.4721962,Nainital,Uttarakhand,214.0,Nainital,Uttarakhand,,,,,,high_extreme,,,,,,,,,,,,very_low,,202,Hectare,Tonnes,Tonnes/Hectare
+Pakur,Jharkhand,2018,rabi,maize,466.0,979.0,2.1,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Doda,Jammu And Kashmir,2015,rabi,rapeseed &mustard,1377.0,500.9,0.36,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Sangareddy,Telangana,2019,kharif,arhar/tur,19845.0,16771.0,0.85,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Tinsukia,Assam,2018,rabi,gram,6.0,4.0,0.67,Pulses,18.65775,145.71,74.95175,0.48275,Tinsukia,Assam,120.0,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Rajkot,Gujarat,2016,rabi,other  rabi pulses,100.0,115.0,1.15,Pulses,22.807167,0.0,36.877335,1.98575,Rajkot,Gujarat,120.0,Rajkot,Gujarat,,,,low,high_extreme,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Udaipur,Rajasthan,2015,kharif,rice,4868.0,4667.0,0.96,Cereals,28.368925,531.79,54.57187,2.8542523,Udaipur,Rajasthan,214.0,Udaipur,Rajasthan,,,,,extreme,,,,,,,,,,low,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Nagaur,Rajasthan,2019,rabi,wheat,68017.0,191093.0,2.81,Cereals,16.678833,32.67,43.8495,1.8106667,Nagaur,Rajasthan,120.0,Nagaur,Rajasthan,,,,,,very_low,,,,,,,,,,,high_extreme,,,106,Hectare,Tonnes,Tonnes/Hectare
+Mamit,Mizoram,2019,rabi,rapeseed &mustard,52.0,33.0,0.63,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Vellore,Tamil Nadu,2015,whole_year,coconut,20805.0,2.448e+08,11766.4,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1006,Hectare,Tonnes,Tonnes/Hectare
+Ukhrul,Manipur,2015,rabi,other  rabi pulses,690.0,580.0,0.84,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Nandurbar,Maharashtra,2015,rabi,sesamum,100.0,30.0,0.3,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Kadapa,Andhra Pradesh,2019,kharif,sesamum,29.0,6.0,0.21,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Agra,Uttar Pradesh,2017,kharif,dry chillies,391.0,361.0,0.92,Spices,32.51547,414.19,43.329067,2.1359813,Agra,Uttar Pradesh,214.0,Agra,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Reasi,Jammu And Kashmir,2017,kharif,maize,22930.0,18533.4,0.81,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Kanpur Nagar,Uttar Pradesh,2019,kharif,jowar,12440.0,18761.0,1.51,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Dhemaji,Assam,2017,zaid,rice,4166.0,4332.0,1.04,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Salem,Tamil Nadu,2018,rabi,other  rabi pulses,3472.0,2715.0,0.78,Pulses,24.789083,94.95,67.82917,2.0224166,Salem,Tamil Nadu,120.0,Salem,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Bhadradri,Telangana,2016,kharif,jowar,2.0,2.0,1.0,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Kaithal,Haryana,2016,kharif,bajra,2500.0,5200.0,2.08,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Darbhanga,Bihar,2016,kharif,maize,1565.0,5457.0,3.49,Cereals,31.025047,913.1,61.14346,2.2148597,Darbhanga,Bihar,214.0,Darbhanga,Bihar,,,,,,high_extreme,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Khandwa,Madhya Pradesh,2019,rabi,wheat,216164.0,692589.0,3.2,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Perambalur,Tamil Nadu,2016,rabi,bajra,121.0,61.0,0.5,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Khordha,Odisha,2018,zaid,urad,291.0,84.1,0.29,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Zunheboto,Nagaland,2018,kharif,peas & beans (pulses),190.0,260.0,1.37,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Nuapada,Odisha,2015,zaid,rice,6000.0,18000.0,3.0,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Namsai,Arunachal Pradesh,2018,kharif,sesamum,283.0,301.0,1.06,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Bagalkote,Karnataka,2016,kharif,groundnut,1390.0,1158.0,0.83,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+West Tripura,Tripura,2018,kharif,groundnut,255.0,330.64,1.3,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Sonbhadra,Uttar Pradesh,2016,rabi,maize,30.0,84.0,2.8,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Barabanki,Uttar Pradesh,2019,rabi,garlic,362.0,2173.0,6.0,Spices,18.80533,119.02,62.2611,1.5908241,Barabanki,Uttar Pradesh,182.0,Barabanki,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Pithoragarh,Uttarakhand,2015,rabi,peas & beans (pulses),68.0,38.0,0.56,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Banswara,Rajasthan,2015,rabi,peas & beans (pulses),1.0,1.0,1.0,Pulses,23.327087,55.7,36.957474,1.8801649,Banswara,Rajasthan,182.0,Banswara,Rajasthan,,,,,high_extreme,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Shahjahanpur,Uttar Pradesh,2019,rabi,potato,8690.0,219223.0,25.23,Vegetable,18.747528,133.91,56.885933,1.6026374,Shahjahanpur,Uttar Pradesh,182.0,Shahjahanpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Koderma,Jharkhand,2019,rabi,linseed,1057.0,740.0,0.7,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Etawah,Uttar Pradesh,2015,kharif,sugarcane,228.0,13187.0,57.84,Sugar,31.671682,520.81,47.0943,2.2291121,Etawah,Uttar Pradesh,214.0,Etawah,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Etawah,Uttar Pradesh,2015,zaid,moong(green gram),6227.0,5018.0,0.81,Pulses,30.629906,123.89,33.257008,2.15,Etawah,Uttar Pradesh,107.0,Etawah,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Budaun,Uttar Pradesh,2016,zaid,sunflower,38.0,45.0,1.18,Oilseeds,32.04916,98.34,25.502897,2.3085046,Budaun,Uttar Pradesh,107.0,Budaun,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,1007,Hectare,Tonnes,Tonnes/Hectare
+Maldah,West Bengal,2015,rabi,rice,142288.0,458289.0,3.22,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Rajgarh,Madhya Pradesh,2015,rabi,peas & beans (pulses),6000.0,7000.0,1.17,Pulses,19.284584,38.02,44.080833,1.6524167,Rajgarh,Madhya Pradesh,120.0,Rajgarh,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+North Garo Hills,Meghalaya,2017,rabi,black pepper,35.0,18.0,0.51,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,501,Hectare,Tonnes,Tonnes/Hectare
+Rangareddi,Telangana,2015,kharif,moong(green gram),2110.0,1689.0,0.8,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Datia,Madhya Pradesh,2015,whole_year,sweet potato,210.0,3150.0,15.0,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,703,Hectare,Tonnes,Tonnes/Hectare
+Papum Pare,Arunachal Pradesh,2019,kharif,maize,2556.0,4528.0,1.77,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Khagaria,Bihar,2017,kharif,sesamum,17.0,15.0,0.88,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Saharsa,Bihar,2015,kharif,maize,3000.0,4685.0,1.56,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Mahabubnagar,Telangana,2019,rabi,groundnut,3900.0,8192.0,2.1,Oilseeds,23.891417,30.78,59.773167,2.2254167,Mahabubnagar,Telangana,120.0,Mahabubnagar,Telangana,,,,moderate,low,,,,moderate,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Kaushambi,Uttar Pradesh,2018,rabi,coriander,94.0,75.0,0.8,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Surajpur,Chhattisgarh,2018,rabi,wheat,5594.0,9953.0,1.78,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Narayanapet,Telangana,2019,kharif,cowpea(lobia),16.0,11.0,0.69,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,207,Hectare,Tonnes,Tonnes/Hectare
+Rewa,Madhya Pradesh,2015,kharif,jute,1000.0,1000.0,1.0,Fiber Crops,30.777523,696.36,54.15528,2.2414954,Rewa,Madhya Pradesh,214.0,Rewa,Madhya Pradesh,,very_low,,,extreme,low,,,,,,,,,,,,,,1102,Hectare,Tonnes,Tonnes/Hectare
+Kurnool,Andhra Pradesh,2016,kharif,bajra,8413.0,14479.0,1.72,Cereals,28.455702,617.4,64.48421,3.223832,Kurnool,Andhra Pradesh,214.0,Kurnool,Andhra Pradesh,,,,,moderate,,,,extreme,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Hassan,Karnataka,2019,zaid,moong(green gram),146.0,28.0,0.19,Pulses,27.76514,187.81,52.56215,1.8171028,Hassan,Karnataka,107.0,Hassan,Karnataka,,,,,,,,,high_extreme,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Peren,Nagaland,2019,kharif,horse-gram,60.0,70.0,1.17,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,206,Hectare,Tonnes,Tonnes/Hectare
+Ghazipur,Uttar Pradesh,2017,kharif,moong(green gram),43.0,17.0,0.4,Pulses,31.824112,697.99,56.686775,2.113785,Ghazipur,Uttar Pradesh,214.0,Ghazipur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Bharatpur,Rajasthan,2017,rabi,barley,2119.0,7043.0,3.32,Cereals,18.021584,25.11,36.35525,1.5153333,Bharatpur,Rajasthan,120.0,Bharatpur,Rajasthan,,,,,,high_extreme,,,,,,,,,,very_low,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Samastipur,Bihar,2018,whole_year,garlic,283.0,433.0,1.53,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+Beed,Maharashtra,2016,rabi,gram,118200.0,100900.0,0.85,Pulses,23.34,73.89,43.91071,1.742623,Beed,Maharashtra,183.0,Beed,Maharashtra,,,,,high_extreme,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Balrampur,Chhattisgarh,2018,kharif,maize,23271.0,63312.0,2.72,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Kurnool,Andhra Pradesh,2017,rabi,rice,42498.0,155500.0,3.66,Cereals,24.051584,0.95,54.722,1.9021667,Kurnool,Andhra Pradesh,120.0,Kurnool,Andhra Pradesh,,,,,moderate,,,,extreme,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Bulandshahr,Uttar Pradesh,2019,kharif,maize,36368.0,90411.0,2.49,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Pathanamthitta,Kerala,2018,whole_year,tapioca,4682.43,209528.38,44.75,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,702,Hectare,Tonnes,Tonnes/Hectare
+Baran,Rajasthan,2019,kharif,rice,20785.0,45936.0,2.21,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Nizamabad,Telangana,2019,rabi,garlic,3.0,11.0,3.67,Spices,22.496166,15.02,56.0345,1.8993334,Nizamabad,Telangana,120.0,Nizamabad,Telangana,,,,very_low,high_extreme,,,,,,,,,,,,,,,508,Hectare,Tonnes,Tonnes/Hectare
+South Tripura,Tripura,2018,rabi,masoor,334.0,243.05,0.73,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Baran,Rajasthan,2015,whole_year,coriander,44953.0,63645.0,1.42,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Bhojpur,Bihar,2018,rabi,barley,1493.0,4276.0,2.86,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Kheri,Uttar Pradesh,2018,rabi,barley,554.0,1550.0,2.8,Cereals,17.067583,18.27,48.454834,1.5966667,Kheri,Uttar Pradesh,120.0,Kheri,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Theni,Tamil Nadu,2018,rabi,ragi,5.0,19.0,3.8,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,105,Hectare,Tonnes,Tonnes/Hectare
+Bastar,Chhattisgarh,2015,whole_year,ginger,90.0,95.0,1.06,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Paschim Bardhaman,West Bengal,2018,rabi,maize,580.0,1305.0,2.25,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Guna,Madhya Pradesh,2019,kharif,cotton(lint),101.0,78.0,0.77,Fiber Crops,29.1657,1203.67,59.36785,2.5027103,Guna,Madhya Pradesh,214.0,Guna,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Yadagiri,Karnataka,2019,rabi,safflower,180.0,63.0,0.35,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1008,Hectare,Tonnes,Tonnes/Hectare
+Gonda,Uttar Pradesh,2015,rabi,gram,555.0,544.0,0.98,Pulses,18.749416,51.79,43.689415,1.6578333,Gonda,Uttar Pradesh,120.0,Gonda,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Nagpur,Maharashtra,2018,zaid,maize,1080.0,390.0,0.36,Cereals,33.35224,169.32,29.45701,2.1971962,Nagpur,Maharashtra,107.0,Nagpur,Maharashtra,,,,,high_extreme,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Koppal,Karnataka,2018,kharif,rapeseed &mustard,2061.0,410.0,0.2,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+West Khasi Hills,Meghalaya,2017,rabi,cowpea(lobia),15.0,26.0,1.73,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,207,Hectare,Tonnes,Tonnes/Hectare
+Sikar,Rajasthan,2018,kharif,maize,5.0,11.0,2.2,Cereals,30.399158,467.12,43.585793,2.475,Sikar,Rajasthan,214.0,Sikar,Rajasthan,,,,,,moderate,,,,,,,,,,,moderate,,,104,Hectare,Tonnes,Tonnes/Hectare
+Tiruvannamalai,Tamil Nadu,2017,whole_year,turmeric,346.0,2274.0,6.57,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,504,Hectare,Tonnes,Tonnes/Hectare
+Surajpur,Chhattisgarh,2019,whole_year,jowar,234.0,324.0,1.38,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Hassan,Karnataka,2015,rabi,jowar,38.0,26.0,0.68,Cereals,21.255917,110.75,67.26908,1.705,Hassan,Karnataka,120.0,Hassan,Karnataka,,,,,,,,,high_extreme,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Janjgir-Champa,Chhattisgarh,2019,kharif,potato,9.0,38.0,4.22,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Rewa,Madhya Pradesh,2016,whole_year,ginger,867.0,9537.0,11.0,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Mathura,Uttar Pradesh,2019,rabi,rapeseed &mustard,43247.0,68374.0,1.58,Oilseeds,16.350334,62.73,51.000084,1.5591667,Mathura,Uttar Pradesh,120.0,Mathura,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Nainital,Uttarakhand,2019,rabi,wheat,20968.0,83171.0,3.97,Cereals,12.475,230.98,54.124084,1.3348334,Nainital,Uttarakhand,120.0,Nainital,Uttarakhand,,,,,,high_extreme,,,,,,,,,,,,very_low,,106,Hectare,Tonnes,Tonnes/Hectare
+Nalgonda,Telangana,2016,rabi,jowar,8.0,10.0,1.25,Cereals,25.826502,34.93,55.166065,2.0945356,Nalgonda,Telangana,183.0,Nalgonda,Telangana,,,,,,,,,high_extreme,,,,,,,,,,,102,Hectare,Tonnes,Tonnes/Hectare
+Umaria,Madhya Pradesh,2019,rabi,barley,85.0,108.0,1.27,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Aurangabad,Bihar,2018,kharif,arhar/tur,215.0,359.0,1.67,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Hathras,Uttar Pradesh,2015,rabi,coriander,88.0,30.0,0.34,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Sultanpur,Uttar Pradesh,2016,rabi,potato,5591.0,160624.0,28.73,Vegetable,18.1755,9.81,45.21467,1.5905833,Sultanpur,Uttar Pradesh,120.0,Sultanpur,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Seoni,Madhya Pradesh,2015,whole_year,sesamum,3000.0,1000.0,0.33,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Purulia,West Bengal,2017,kharif,mesta,207.0,537.0,2.59,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1103,Hectare,Tonnes,Tonnes/Hectare
+Karimnagar,Telangana,2018,rabi,tobacco,66.0,345.0,5.23,Drugs And Narcotics,23.799917,23.1,43.83058,1.5224167,Karimnagar,Telangana,120.0,Karimnagar,Telangana,,,,low,,,,,,,extreme,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
+Patna,Bihar,2019,rabi,rice,56238.0,119638.0,2.13,Cereals,18.18325,50.68,59.733,1.5609167,Patna,Bihar,120.0,Patna,Bihar,,,,,,high_extreme,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Mahe,Puducherry,2017,whole_year,coconut,460.0,4.6e+06,10000.0,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1006,Hectare,Tonnes,Tonnes/Hectare
+Muzaffarnagar,Uttar Pradesh,2016,rabi,coriander,2.0,1.0,0.5,Spices,19.851694,45.49,32.76213,1.8272132,Muzaffarnagar,Uttar Pradesh,183.0,Muzaffarnagar,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Belagavi,Karnataka,2017,zaid,onion,208.0,2509.0,12.06,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Gariyaband,Chhattisgarh,2016,rabi,potato,8.0,52.0,6.5,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Etawah,Uttar Pradesh,2015,rabi,rapeseed &mustard,14509.0,20465.0,1.41,Oilseeds,18.455,46.62,41.24175,1.4821666,Etawah,Uttar Pradesh,120.0,Etawah,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Pondicherry,Puducherry,2018,zaid,dry chillies,3.0,41.0,13.67,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,502,Hectare,Tonnes,Tonnes/Hectare
+Mau,Uttar Pradesh,2017,kharif,groundnut,446.0,452.0,1.01,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Panch Mahals,Gujarat,2019,zaid,maize,241.0,566.0,2.35,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Beed,Maharashtra,2017,rabi,other cereals,500.0,350.0,0.7,Cereals,23.421318,102.61,44.68231,1.7845055,Beed,Maharashtra,182.0,Beed,Maharashtra,,,,,high_extreme,,,,,,,,,,,,,,,188,Hectare,Tonnes,Tonnes/Hectare
+Sonbhadra,Uttar Pradesh,2017,rabi,onion,732.0,11100.0,15.16,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Udaipur,Rajasthan,2016,rabi,linseed,27.0,21.0,0.78,Oilseeds,21.367104,58.17,36.387978,1.6238798,Udaipur,Rajasthan,183.0,Udaipur,Rajasthan,,,,,extreme,,,,,,,,,,low,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Madurai,Tamil Nadu,2017,rabi,maize,2689.0,17995.0,6.69,Cereals,25.739614,403.66,72.504944,2.0048902,Madurai,Tamil Nadu,182.0,Madurai,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Lucknow,Uttar Pradesh,2019,rabi,barley,166.0,431.0,2.6,Cereals,16.264084,96.84,61.83425,1.5516666,Lucknow,Uttar Pradesh,120.0,Lucknow,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Dakshin Bastar Dantewada,Chhattisgarh,2015,rabi,gram,30.0,16.0,0.53,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Namakkal,Tamil Nadu,2019,whole_year,tapioca,19236.0,617794.0,32.12,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,702,Hectare,Tonnes,Tonnes/Hectare
+Shopian,Jammu And Kashmir,2018,kharif,maize,530.0,1012.0,1.91,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Villupuram,Tamil Nadu,2017,kharif,cotton(lint),7920.0,19.0,0.0,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Sheikhpura,Bihar,2018,rabi,onion,711.0,7920.0,11.14,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Surendranagar,Gujarat,2017,rabi,rapeseed &mustard,631.0,1015.0,1.61,Oilseeds,24.029615,8.64,37.27346,1.8874725,Surendranagar,Gujarat,182.0,Surendranagar,Gujarat,,extreme,,,moderate,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Maharajganj,Uttar Pradesh,2019,rabi,linseed,2.0,1.0,0.5,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Lakhisarai,Bihar,2018,rabi,maize,3317.0,13500.0,4.07,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Kachchh,Gujarat,2019,rabi,other  rabi pulses,38.0,30.0,0.79,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Gadag,Karnataka,2019,kharif,bajra,2827.0,1875.0,0.66,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Chhatarpur,Madhya Pradesh,2019,whole_year,coriander,1942.0,2175.04,1.12,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,509,Hectare,Tonnes,Tonnes/Hectare
+Gwalior,Madhya Pradesh,2015,kharif,moong(green gram),1000.0,256.0,0.26,Pulses,30.613272,657.45,50.760185,2.3421962,Gwalior,Madhya Pradesh,214.0,Gwalior,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Bhojpur,Bihar,2019,kharif,rice,65.0,119.0,1.83,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Ariyalur,Tamil Nadu,2019,kharif,sesamum,786.0,435.0,0.55,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Jammu,Jammu And Kashmir,2016,kharif,ginger,7.0,14.8,2.11,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,503,Hectare,Tonnes,Tonnes/Hectare
+Adilabad,Telangana,2016,kharif,maize,600.0,2074.0,3.46,Cereals,29.086494,1030.69,64.45182,2.670374,Adilabad,Telangana,214.0,Adilabad,Telangana,,,,,moderate,,,,moderate,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Salem,Tamil Nadu,2017,rabi,sesamum,1053.0,504.0,0.48,Oilseeds,25.39423,299.07,68.54918,1.9297802,Salem,Tamil Nadu,182.0,Salem,Tamil Nadu,,,,,,,,,high_extreme,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Durg,Chhattisgarh,2018,rabi,gram,17399.0,15410.0,0.89,Pulses,20.099583,69.87,55.03,1.27625,Durg,Chhattisgarh,120.0,Durg,Chhattisgarh,extreme,moderate,,,,,,,,,,,,,,,,,,201,Hectare,Tonnes,Tonnes/Hectare
+Dhanbad,Jharkhand,2015,rabi,wheat,102.0,178.0,1.75,Cereals,18.705667,32.87,60.268,1.473,Dhanbad,Jharkhand,120.0,Dhanbad,Jharkhand,,high_extreme,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Namakkal,Tamil Nadu,2015,whole_year,coconut,8059.0,1.388e+08,17222.98,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1006,Hectare,Tonnes,Tonnes/Hectare
+Perambalur,Tamil Nadu,2017,rabi,cotton(lint),86.0,87.0,0.0,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Purba Bardhaman,West Bengal,2016,rabi,groundnut,1757.0,3756.0,2.14,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Dakshin Bastar Dantewada,Chhattisgarh,2015,rabi,rapeseed &mustard,1050.0,522.0,0.5,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Baloda Bazar,Chhattisgarh,2016,whole_year,sugarcane,43.0,116.0,2.7,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Satna,Madhya Pradesh,2017,rabi,linseed,7210.0,6970.0,0.97,Oilseeds,18.792418,6.48,45.764668,1.4683334,Satna,Madhya Pradesh,120.0,Satna,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,1005,Hectare,Tonnes,Tonnes/Hectare
+Dibrugarh,Assam,2017,whole_year,black pepper,87.0,237.0,2.72,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,501,Hectare,Tonnes,Tonnes/Hectare
+Pashchim Medinipur,West Bengal,2016,kharif,groundnut,449.0,400.0,0.89,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,Hectare,Tonnes,Tonnes/Hectare
+Jharsuguda,Odisha,2019,rabi,other  rabi pulses,2020.0,1010.0,0.5,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Hathras,Uttar Pradesh,2018,kharif,sesamum,113.0,25.0,0.22,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Sheikhpura,Bihar,2016,whole_year,sugarcane,161.0,8957.0,55.63,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Kurnool,Andhra Pradesh,2015,rabi,cotton(lint),7.0,12.0,1.71,Fiber Crops,24.542166,32.06,56.109333,2.38825,Kurnool,Andhra Pradesh,120.0,Kurnool,Andhra Pradesh,,,,,moderate,,,,extreme,,,,,,,,,,,1101,Hectare,Tonnes,Tonnes/Hectare
+Barnala,Punjab,2018,rabi,wheat,115000.0,641000.0,5.57,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+Mokokchung,Nagaland,2018,kharif,sugarcane,340.0,14790.0,43.5,Sugar,,,,,,,,,,,,,,,,,,,,,,,,,,,,,401,Hectare,Tonnes,Tonnes/Hectare
+Barpeta,Assam,2015,rabi,peas & beans (pulses),1355.0,1554.0,1.15,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Araria,Bihar,2018,zaid,rice,8019.0,21191.0,2.64,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Barmer,Rajasthan,2018,kharif,other kharif pulses,1.0,1.0,1.0,Pulses,32.371494,152.08,40.38827,3.6080842,Barmer,Rajasthan,214.0,Barmer,Rajasthan,,,,,,,,,,,,,,,high_extreme,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Mainpuri,Uttar Pradesh,2019,kharif,maize,39342.0,140884.0,3.58,Cereals,31.21299,723.65,55.41617,2.1328971,Mainpuri,Uttar Pradesh,214.0,Mainpuri,Uttar Pradesh,,,,,,high_extreme,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Mahasamund,Chhattisgarh,2019,kharif,sesamum,128.0,54.0,0.42,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Haridwar,Uttarakhand,2015,rabi,masoor,326.0,343.0,1.05,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,205,Hectare,Tonnes,Tonnes/Hectare
+Guntur,Andhra Pradesh,2017,rabi,sesamum,298.0,160.0,0.54,Oilseeds,24.877333,28.92,68.052414,1.6450833,Guntur,Andhra Pradesh,120.0,Guntur,Andhra Pradesh,,,,low,,,,moderate,low,,,,,,,,,,,1003,Hectare,Tonnes,Tonnes/Hectare
+Palakkad,Kerala,2016,whole_year,cardamom,2755.0,290.0,0.11,Spices,,,,,,,,,,,,,,,,,,,,,,,,,,,,,506,Hectare,Tonnes,Tonnes/Hectare
+Amethi,Uttar Pradesh,2017,kharif,bajra,458.0,904.0,1.97,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Zunheboto,Nagaland,2017,rabi,barley,50.0,50.0,1.0,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,107,Hectare,Tonnes,Tonnes/Hectare
+Varanasi,Uttar Pradesh,2016,rabi,rapeseed &mustard,720.0,1397.0,1.94,Oilseeds,18.26925,12.18,51.415333,1.6078334,Varanasi,Uttar Pradesh,120.0,Varanasi,Uttar Pradesh,,,,,,high_extreme,,,,,,low,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Ganderbal,Jammu And Kashmir,2015,kharif,rice,7831.0,19157.3,2.45,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,101,Hectare,Tonnes,Tonnes/Hectare
+Panchkula,Haryana,2018,kharif,urad,201.0,101.0,0.5,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Unakoti,Tripura,2017,rabi,peas & beans (pulses),209.0,162.0,0.78,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,213,Hectare,Tonnes,Tonnes/Hectare
+Sidhi,Madhya Pradesh,2018,rabi,other  rabi pulses,252.0,110.0,0.44,Pulses,18.975666,26.83,39.531918,1.5266666,Sidhi,Madhya Pradesh,120.0,Sidhi,Madhya Pradesh,,extreme,,,low,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Sheikhpura,Bihar,2019,rabi,rapeseed &mustard,843.0,787.0,0.93,Oilseeds,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1004,Hectare,Tonnes,Tonnes/Hectare
+Dhar,Madhya Pradesh,2018,rabi,wheat,233817.0,809679.0,3.46,Cereals,23.917032,4.22,31.348461,1.7071428,Dhar,Madhya Pradesh,182.0,Dhar,Madhya Pradesh,,,,,high_extreme,,,,,,,,,,,,,,,106,Hectare,Tonnes,Tonnes/Hectare
+East Khasi Hills,Meghalaya,2015,kharif,tapioca,510.0,3412.0,6.69,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,702,Hectare,Tonnes,Tonnes/Hectare
+Sangareddy,Telangana,2018,kharif,onion,160.0,1231.0,7.69,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,708,Hectare,Tonnes,Tonnes/Hectare
+Meerut,Uttar Pradesh,2015,rabi,masoor,477.0,339.0,0.71,Pulses,16.741083,43.99,40.5815,1.79175,Meerut,Uttar Pradesh,120.0,Meerut,Uttar Pradesh,,,,,,,,,,,,,,,,,,high_extreme,,205,Hectare,Tonnes,Tonnes/Hectare
+Saharsa,Bihar,2016,zaid,moong(green gram),19005.0,13988.0,0.74,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,204,Hectare,Tonnes,Tonnes/Hectare
+Vijayapura,Karnataka,2019,zaid,bajra,143.0,149.0,1.04,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,103,Hectare,Tonnes,Tonnes/Hectare
+Bidar,Karnataka,2019,rabi,other  rabi pulses,41.0,23.0,0.56,Pulses,23.822144,143.21,56.365932,1.9412088,Bidar,Karnataka,182.0,Bidar,Karnataka,,,,,high_extreme,,,,,,,,,,,,,,,288,Hectare,Tonnes,Tonnes/Hectare
+Khowai,Tripura,2018,kharif,arhar/tur,540.0,466.9,0.86,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,202,Hectare,Tonnes,Tonnes/Hectare
+Banswara,Rajasthan,2017,kharif,sannhamp,164.0,45.0,0.27,Fiber Crops,29.197803,798.72,59.886074,2.8330374,Banswara,Rajasthan,214.0,Banswara,Rajasthan,,,,,high_extreme,,,,,,,,,,,,,,,1104,Hectare,Tonnes,Tonnes/Hectare
+Chandauli,Uttar Pradesh,2017,rabi,maize,15.0,45.0,3.0,Cereals,,,,,,,,,,,,,,,,,,,,,,,,,,,,,104,Hectare,Tonnes,Tonnes/Hectare
+Balangir,Odisha,2015,rabi,urad,576.0,176.8,0.31,Pulses,,,,,,,,,,,,,,,,,,,,,,,,,,,,,203,Hectare,Tonnes,Tonnes/Hectare
+Vikarabad,Telangana,2018,rabi,potato,404.0,6708.0,16.6,Vegetable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,701,Hectare,Tonnes,Tonnes/Hectare
+Ashoknagar,Madhya Pradesh,2019,kharif,mesta,4.0,1.0,0.25,Fiber Crops,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1103,Hectare,Tonnes,Tonnes/Hectare
+Mandya,Karnataka,2016,whole_year,tobacco,2.0,1.0,0.5,Drugs And Narcotics,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1302,Hectare,Tonnes,Tonnes/Hectare
