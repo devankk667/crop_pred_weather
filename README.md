@@ -9,15 +9,29 @@ A machine learning model for predicting crop yields based on weather, soil, and 
 ## 📊 Model Performance
 
 ### Key Metrics
-- **R² Score**: 0.9154 (91.54% variance explained)
-- **RMSE**: 2.2849 tons/ha
-- **MAE**: 0.6778 tons/ha
+| Metric | Value | Interpretation |
+|--------|-------|----------------|
+| **R² Score** | 0.9154 | The model explains 91.54% of the variance in crop yields |
+| **RMSE** | 2.2849 tons/ha | On average, predictions are within 2.28 tons/ha of actual values |
+| **MAE** | 0.6778 tons/ha | The average absolute error is 0.68 tons/ha |
 
 ### Feature Importance
-![Feature Importance](models/best_model/feature_importance.png)
+![Feature Importance](https://raw.githubusercontent.com/devankk667/crop_pred_weather/main/models/best_model/feature_importance.png)
 
-### Actual vs Predicted Values
-![Actual vs Predicted](models/best_model/actual_vs_predicted.png)
+The feature importance plot shows which factors most influence crop yield predictions. Key observations:
+- **Top Features**: 
+  - `avg_temp`: Average temperature has the highest impact
+  - `total_precip`: Total precipitation is the second most important factor
+  - `crop`: Crop type significantly affects yield predictions
+  - `season`: Growing season plays a crucial role
+
+### Prediction Accuracy
+![Actual vs Predicted](https://raw.githubusercontent.com/devankk667/crop_pred_weather/main/models/best_model/actual_vs_predicted.png)
+
+The actual vs. predicted plot demonstrates the model's performance:
+- Points close to the red line indicate accurate predictions
+- The tight clustering around the line shows consistent performance across different yield values
+- The model performs well for both low and high yield values
 
 ## 🚀 Features
 
