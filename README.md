@@ -111,93 +111,74 @@ For the following input:
 
 2. Create `app.py`:
    ```python
-   from fastapi import FastAPI, HTTPException
-   import joblib
-   import pandas as pd
-   import numpy as np
-   from pydantic import BaseModel
-   from datetime import datetime
-   from typing import Optional
+   from fastapi import FastAPI
+import joblib
+import numpy as np
+from pydantic import BaseModel
+from typing import Dict, List
 
-   app = FastAPI(title="Crop Yield Prediction API",
-                description="API for predicting crop yields based on environmental and agricultural factors")
+app = FastAPI()
+model = joblib.load("models/best_model/xgboost_model.joblib")
+preprocess = joblib.load("models/best_model/preprocessing_objects.joblib")
 
-   # Load model and preprocessor
-   MODEL_PATH = 'models/best_model/xgboost_model.joblib'
-   PREPROCESSOR_PATH = 'models/best_model/preprocessing_objects.joblib'
-   
-   try:
-       model = joblib.load(MODEL_PATH)
-       preprocessor = joblib.load(PREPROCESSOR_PATH)
-   except Exception as e:
-       raise RuntimeError(f"Failed to load model or preprocessor: {str(e)}")
+class PredictionInput(BaseModel):
+    year: int
+    season: str
+    crop: str
+    avg_temp: float
+    total_precip: float
+    avg_humidity: float
+    avg_windspeed: float
+    district_name: str
+    state_name: str
 
-   class CropInput(BaseModel):
-       year: int
-       season: str  # 'kharif', 'rabi', or 'zaid'
-       crop: str
-       avg_temp: float
-       total_precip: float
-       avg_humidity: float
-       avg_windspeed: float
-       district_name: str
-       state_name: str
-       
-       class Config:
-           schema_extra = {
-               "example": {
-                   "year": 2023,
-                   "season": "kharif",
-                   "crop": "rice",
-                   "avg_temp": 28.5,
-                   "total_precip": 1200.0,
-                   "avg_humidity": 70.0,
-                   "avg_windspeed": 10.0,
-                   "district_name": "east godavari",
-                   "state_name": "andhra pradesh"
-               }
-           }
+@app.post("/predict")
+async def predict(input_data: PredictionInput):
+    input_dict = input_data.dict()
 
-   @app.get("/")
-   async def health_check():
-       return {"status": "healthy", "message": "Crop Yield Prediction API is running"}
+    # --------------------
+    # 1. Numeric features
+    # --------------------
+    num_features = np.array([
+        input_dict['year'],
+        input_dict['avg_temp'],
+        input_dict['total_precip'],
+        input_dict['avg_humidity'],
+        input_dict['avg_windspeed']
+    ]).reshape(1, -1)
+    
+    # Scale numeric features
+    scaled_features = preprocess['scaler'].transform(num_features)
 
-   @app.post("/predict")
-   async def predict(input_data: CropInput):
-       try:
-           # Convert input to DataFrame
-           input_dict = input_data.dict()
-           df = pd.DataFrame([input_dict])
-           
-           # 1. Encode categorical variables
-           for col in preprocessor.get('categorical_cols', []):
-               if col in preprocessor.get('label_encoders', {}):
-                   le = preprocessor['label_encoders'][col]
-                   # Handle unseen labels
-                   df[col] = df[col].apply(lambda x: x if x in le.classes_ else -1)
-                   df[col] = le.transform(df[col])
-           
-           # 2. Scale numerical features
-           numerical_cols = preprocessor.get('numerical_cols', [])
-           if 'scaler' in preprocessor and numerical_cols:
-               df[numerical_cols] = preprocessor['scaler'].transform(df[numerical_cols])
-           
-           # 3. Ensure correct feature order
-           feature_order = preprocessor.get('feature_order', 
-                                         numerical_cols + preprocessor.get('categorical_cols', []))
-           
-           # 4. Make prediction
-           log_prediction = model.predict(df[feature_order])
-           prediction = np.expm1(log_prediction)[0]  # Convert from log scale
-           
-           return {
-               "predicted_yield": round(prediction, 2),
-               "unit": "tons/ha",
-               "status": "success"
-           }
-           
-       except Exception as e:
-           raise HTTPException(status_code=400, detail=str(e))
+    # -------------------------
+    # 2. Categorical features
+    # -------------------------
+    categorical_values = []
+    for col in preprocess['categorical_cols']:
+        le = preprocess['label_encoders'][col]
+        val = input_dict[col]
+
+        # Handle unseen labels safely
+        if val not in le.classes_:
+            # Add unseen label to the encoder classes temporarily
+            le.classes_ = np.append(le.classes_, val)
+        categorical_values.append(le.transform([val])[0])
+
+    categorical_values = np.array(categorical_values).reshape(1, -1)
+
+    # -------------------------
+    # 3. Combine features
+    # -------------------------
+    features = np.column_stack([scaled_features, categorical_values])
+
+    # -------------------------
+    # 4. Predict
+    # -------------------------
+    prediction_log = model.predict(features)
+    prediction = np.expm1(prediction_log)[0]  # Convert from log scale
+
+    return {"predicted_yield": float(round(prediction, 2))}
+
    ```
 
 3. Run the API:
