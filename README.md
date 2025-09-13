@@ -110,35 +110,36 @@ For the following input:
    ```
 
 2. Create `app.py`:
-   ```python
-   from fastapi import FastAPI
-   import joblib
-   import numpy as np
-   from pydantic import BaseModel
-   from typing import Dict, List
+```python
+from fastapi import FastAPI
+import joblib
+import numpy as np
+from pydantic import BaseModel
 
-   app = FastAPI()
-   model = joblib.load("models/best_model/xgboost_model.joblib")
-   preprocess = joblib.load("models/best_model/preprocessing_objects.joblib")
+app = FastAPI()
 
-   class PredictionInput(BaseModel):
-      year: int
-      season: str
-      crop: str
-      avg_temp: float
-      total_precip: float
-      avg_humidity: float
-      avg_windspeed: float
-      district_name: str
-      state_name: str
+# Load model and preprocessing objects
+model = joblib.load("models/best_model/xgboost_model.joblib")
+preprocess = joblib.load("models/best_model/preprocessing_objects.joblib")
 
-   @app.post("/predict")
-      async def predict(input_data: PredictionInput):
-        input_dict = input_data.dict()
+# Define input schema
+class PredictionInput(BaseModel):
+    year: int
+    season: str
+    crop: str
+    avg_temp: float
+    total_precip: float
+    avg_humidity: float
+    avg_windspeed: float
+    district_name: str
+    state_name: str
 
-    # --------------------
+# Prediction endpoint
+@app.post("/predict")
+async def predict(input_data: PredictionInput):
+    input_dict = input_data.dict()
+
     # 1. Numeric features
-    # --------------------
     num_features = np.array([
         input_dict['year'],
         input_dict['avg_temp'],
@@ -146,13 +147,11 @@ For the following input:
         input_dict['avg_humidity'],
         input_dict['avg_windspeed']
     ]).reshape(1, -1)
-    
+
     # Scale numeric features
     scaled_features = preprocess['scaler'].transform(num_features)
 
-    # -------------------------
     # 2. Categorical features
-    # -------------------------
     categorical_values = []
     for col in preprocess['categorical_cols']:
         le = preprocess['label_encoders'][col]
@@ -160,26 +159,22 @@ For the following input:
 
         # Handle unseen labels safely
         if val not in le.classes_:
-            # Add unseen label to the encoder classes temporarily
             le.classes_ = np.append(le.classes_, val)
         categorical_values.append(le.transform([val])[0])
 
     categorical_values = np.array(categorical_values).reshape(1, -1)
 
-    # -------------------------
     # 3. Combine features
-    # -------------------------
     features = np.column_stack([scaled_features, categorical_values])
 
-    # -------------------------
     # 4. Predict
-    # -------------------------
     prediction_log = model.predict(features)
     prediction = np.expm1(prediction_log)[0]  # Convert from log scale
 
     return {"predicted_yield": float(round(prediction, 2))}
 
-   ```
+
+```
 
 3. Run the API:
    ```bash
