@@ -20,6 +20,103 @@ wheels/
 .installed.cfg
 *.egg
 
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+venv*
+
+# Data files
+data/raw/
+data/processed/
+!data/processed/final_crop_soil_data_with_yield_fixed.csv
+*.csv
+*.xlsx
+*.db
+*.sqlite
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Model files
+models/outputs/
+!models/best_model/
+!models/README.md
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.project
+.pydevproject
+.settings/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Cache and local settings
+.cache/
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# Plot outputs
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.svg
+
+# Keep this directory but ignore its contents
+!models/best_model/*
+!models/*/
+models/*/
+!models/best_model/
+
+# Local development
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.egg
+
 # Jupyter Notebook
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
