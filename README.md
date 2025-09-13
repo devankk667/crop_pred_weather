@@ -112,16 +112,16 @@ For the following input:
 2. Create `app.py`:
    ```python
    from fastapi import FastAPI
-    import joblib
-    import numpy as np
-    from pydantic import BaseModel
-    from typing import Dict, List
+   import joblib
+   import numpy as np
+   from pydantic import BaseModel
+   from typing import Dict, List
 
-    app = FastAPI()
-    model = joblib.load("models/best_model/xgboost_model.joblib")
-    preprocess = joblib.load("models/best_model/preprocessing_objects.joblib")
+   app = FastAPI()
+   model = joblib.load("models/best_model/xgboost_model.joblib")
+   preprocess = joblib.load("models/best_model/preprocessing_objects.joblib")
 
-    class PredictionInput(BaseModel):
+   class PredictionInput(BaseModel):
       year: int
       season: str
       crop: str
@@ -132,7 +132,7 @@ For the following input:
       district_name: str
       state_name: str
 
-    @app.post("/predict")
+   @app.post("/predict")
       async def predict(input_data: PredictionInput):
         input_dict = input_data.dict()
 
