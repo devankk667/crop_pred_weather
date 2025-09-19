@@ -70,11 +70,7 @@ For the following input:
 - **Input Parameters**:
   - Year
   - Season (Kharif/Rabi/Summer)
-  - Crop Type
-  - Average Temperature
-  - Total Precipitation
-  - Average Humidity
-  - Average Windspeed
+  - Crop
   - District Name
   - State Name
 
@@ -106,75 +102,14 @@ For the following input:
 
 1. Install FastAPI and Uvicorn:
    ```bash
-   pip install fastapi uvicorn
+   pip install -r requirements.txt
    ```
-
-2. Create `app.py`:
-```python
-from fastapi import FastAPI
-import joblib
-import numpy as np
-from pydantic import BaseModel
-
-app = FastAPI()
-
-# Load model and preprocessing objects
-model = joblib.load("models/best_model/xgboost_model.joblib")
-preprocess = joblib.load("models/best_model/preprocessing_objects.joblib")
-
-# Define input schema
-class PredictionInput(BaseModel):
-    year: int
-    season: str
-    crop: str
-    avg_temp: float
-    total_precip: float
-    avg_humidity: float
-    avg_windspeed: float
-    district_name: str
-    state_name: str
-
-# Prediction endpoint
-@app.post("/predict")
-async def predict(input_data: PredictionInput):
-    input_dict = input_data.dict()
-
-    # 1. Numeric features
-    num_features = np.array([
-        input_dict['year'],
-        input_dict['avg_temp'],
-        input_dict['total_precip'],
-        input_dict['avg_humidity'],
-        input_dict['avg_windspeed']
-    ]).reshape(1, -1)
-
-    # Scale numeric features
-    scaled_features = preprocess['scaler'].transform(num_features)
-
-    # 2. Categorical features
-    categorical_values = []
-    for col in preprocess['categorical_cols']:
-        le = preprocess['label_encoders'][col]
-        val = input_dict[col]
-
-        # Handle unseen labels safely
-        if val not in le.classes_:
-            le.classes_ = np.append(le.classes_, val)
-        categorical_values.append(le.transform([val])[0])
-
-    categorical_values = np.array(categorical_values).reshape(1, -1)
-
-    # 3. Combine features
-    features = np.column_stack([scaled_features, categorical_values])
-
-    # 4. Predict
-    prediction_log = model.predict(features)
-    prediction = np.expm1(prediction_log)[0]  # Convert from log scale
-
-    return {"predicted_yield": float(round(prediction, 2))}
-
-
-```
+   
+2. Create and activate a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
 
 3. Run the API:
    ```bash
@@ -269,32 +204,48 @@ async def predict(input_data: PredictionInput):
 ## 📝 Project Structure
 
 ```
-project/
-├── data/                    # Raw and processed data
-│   └── processed/           # Processed datasets
-├── models/                  # Trained models and preprocessing objects
-│   └── best_model/          # Best performing model artifacts
-├── notebooks/               # Jupyter notebooks for analysis
-│   ├── agricultural_analysis.ipynb
-│   └── enhanced_visualizations.py
-├── scripts/                 # Utility scripts
-│   ├── fetch_weather_data.py
-│   ├── nasa_weather.py
-│   └── cleanup_files_fixed.py
-├── tests/                   # Test scripts
-│   ├── test_model.py
-│   ├── test_predictions_final.py
-│   ├── test_model_predictions.py
-│   ├── debug_preprocessing.py
-│   └── final_model_test.py
-├── app.py                   # FastAPI application
-├── train_best_model.py      # Model training script
-├── requirements.txt         # Python dependencies
-├── Dockerfile               # Container configuration
-└── README.md               # Project documentation
+crop_pred_weather/
+├── backend/                                    # Backend API directory
+│   ├── models/                                 # Machine learning models
+│   │   └── best_model/                         # Best performing model artifacts
+│   │       ├── xgboost_model.joblib           # Trained XGBoost model
+│   │       └── preprocessing_objects.joblib   # Preprocessing pipeline objects
+│   │
+│   ├── main.py                                 # FastAPI main application
+│   ├── model.py                                # Model loading and prediction logic
+│   ├── schemas.py                              # Pydantic data models/schemas
+│   └── requirements.txt                        # Backend dependencies
+│
+├── data/                                       # Data directory
+│   └── processed/                              # Processed datasets
+│       └── [cleaned and preprocessed data files]
+│
+├── notebooks/                                  # Jupyter notebooks for analysis
+│   ├── agricultural_analysis.ipynb            # Data analysis and EDA notebook
+│   └── enhanced_visualizations.py             # Advanced visualization scripts
+│
+├── scripts/                                    # Utility and helper scripts
+│   ├── fetch_weather_data.py                  # Weather data collection script
+│   ├── nasa_weather.py                        # NASA weather API integration
+│   └── cleanup_files_fixed.py                 # Data cleaning utility
+│
+├── tests/                                      # Testing suite
+│   ├── test_model.py                           # Model functionality tests
+│   ├── test_predictions_final.py              # Final prediction validation
+│   ├── test_model_predictions.py              # Model prediction tests
+│   ├── debug_preprocessing.py                 # Preprocessing debugging
+│   └── final_model_test.py                    # Comprehensive model testing
+│
+├── app.py                                      # Legacy FastAPI web application
+├── train_best_model.py                        # Model training pipeline
+├── requirements.txt                           # Root project dependencies
+├── Dockerfile                                 # Container configuration
+├── README.md                                  # Project documentation
+└── LICENSE                                    # MIT License
 ```
 
 ### Key Files
+- `backend`: Handles entire backend and weather API calling.
 - `app.py`: FastAPI application for model serving
 - `train_best_model.py`: Script to train and save the best model
 - `requirements.txt`: Python package dependencies
