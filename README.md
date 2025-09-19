@@ -39,15 +39,11 @@ The actual vs. predicted plot demonstrates the model's performance:
 For the following input:
 ```python
 {
-    'year': 2023,
-    'season': 'kharif',
-    'crop': 'rice',
-    'avg_temp': 28.5,      # °C
-    'total_precip': 1200,  # mm
-    'avg_humidity': 70,    # %
-    'avg_windspeed': 10,   # km/h
-    'district_name': 'east godavari',
-    'state_name': 'andhra pradesh'
+  "crop": "wheat",
+  "season": "rabi",
+  "year": 2025,
+  "state_name": "Punjab",
+  "district_name": "Ludhiana"
 }
 ```
 
@@ -76,6 +72,8 @@ For the following input:
 
 - **Output**:
   - Predicted crop yield in tons per hectare
+  - Model Version
+  - Weather Parameters used for prediction
 
 ## 🛠️ Installation
 
