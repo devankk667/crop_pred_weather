@@ -77,22 +77,12 @@ For the following input:
 
 ## 🛠️ Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/yourusername/crop-yield-prediction.git
-   cd crop-yield-prediction
+   cd crop-yield-prediction/backend
    ```
 
-2. Create and activate a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## 🚀 Deployment Options
 
