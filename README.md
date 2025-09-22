@@ -238,9 +238,9 @@ crop_pred_weather/
 - `tests/`: Contains all test scripts for model validation
 - `notebooks/`: Data exploration and visualization notebooks
 
-## 🤝 Contributing
+## 🤝 Contributors
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Raj Kale (@PavVada)
 
 ## 📄 License
 
