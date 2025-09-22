@@ -1,5 +1,8 @@
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import HTMLResponse
+from fastapi.staticfiles import StaticFiles
+from pathlib import Path
 import requests
 from geopy.geocoders import Nominatim
 
@@ -16,9 +19,24 @@ app.add_middleware(
 )
 
 # ------------------
+# Frontend mounting (frontend folder is in project root)
+# ------------------
+BASE_DIR = Path(__file__).resolve().parent.parent
+FRONTEND_DIR = BASE_DIR / "frontend"
+
+if FRONTEND_DIR.exists():
+    app.mount("/static", StaticFiles(directory=str(FRONTEND_DIR)), name="static")
+
+@app.get("/", response_class=HTMLResponse)
+def serve_frontend():
+    index_file = FRONTEND_DIR / "index.html"
+    if index_file.exists():
+        return HTMLResponse(index_file.read_text(encoding="utf-8"))
+    raise HTTPException(status_code=404, detail="Frontend not found")
+
+# ------------------
 # Helper functions
 # ------------------
-
 def geocode_location(state: str, district: str):
     geolocator = Nominatim(user_agent="crop_pred_weather")
     location = geolocator.geocode(f"{district}, {state}, India")
@@ -27,11 +45,7 @@ def geocode_location(state: str, district: str):
     return location.latitude, location.longitude
 
 def fetch_weather(lat: float, lon: float, year: int, season: str):
-    season_months = {
-        "kharif": [6, 10],  # Jun–Oct
-        "rabi": [11, 3],    # Nov–Mar
-        "zaid": [4, 5],     # Apr–May
-    }
+    season_months = {"kharif": [6, 10], "rabi": [11, 3], "zaid": [4, 5]}
     if season.lower() not in season_months:
         raise HTTPException(status_code=400, detail="Invalid season")
 
@@ -56,59 +70,45 @@ def fetch_weather(lat: float, lon: float, year: int, season: str):
     r = requests.get(url)
     if r.status_code != 200:
         raise HTTPException(status_code=500, detail="Weather API failed")
-
+    
     data = r.json()
     if "daily" not in data:
         raise HTTPException(status_code=500, detail="Weather data not available")
+    
+    daily = data["daily"]
 
-    temps = [(tmax + tmin) / 2 for tmax, tmin in zip(
-        data["daily"]["temperature_2m_max"],
-        data["daily"]["temperature_2m_min"]
-    )]
-    avg_temp = sum(temps) / len(temps)
-
-    total_precip = sum(data["daily"]["precipitation_sum"])
-
-    humidities = [(hmax + hmin) / 2 for hmax, hmin in zip(
-        data["daily"]["relative_humidity_2m_max"],
-        data["daily"]["relative_humidity_2m_min"]
-    )]
-    avg_humidity = sum(humidities) / len(humidities)
-
-    avg_windspeed = sum(data["daily"]["windspeed_10m_max"]) / len(data["daily"]["windspeed_10m_max"])
+    # summary averages
+    avg_temp = sum([(tmax+tmin)/2 for tmax, tmin in zip(daily["temperature_2m_max"], daily["temperature_2m_min"])]) / len(daily["temperature_2m_max"])
+    total_precip = sum(daily["precipitation_sum"])
+    avg_humidity = sum([(hmax+hmin)/2 for hmax, hmin in zip(daily["relative_humidity_2m_max"], daily["relative_humidity_2m_min"])]) / len(daily["relative_humidity_2m_max"])
+    avg_windspeed = sum(daily["windspeed_10m_max"]) / len(daily["windspeed_10m_max"])
 
     return {
-        "avg_temp": avg_temp,
-        "total_precip": total_precip,
-        "avg_humidity": avg_humidity,
-        "avg_windspeed": avg_windspeed
+        "daily": daily,  # full weather arrays
+        "summary": {
+            "avg_temp": avg_temp,
+            "total_precip": total_precip,
+            "avg_humidity": avg_humidity,
+            "avg_windspeed": avg_windspeed
+        }
     }
 
 # ------------------
 # Endpoints
 # ------------------
-
 @app.post("/predict", response_model=PredictionResponse)
 def predict(req: PredictionRequest):
     try:
-        # 1. Geocode
         lat, lon = geocode_location(req.state_name, req.district_name)
-
-        # 2. Weather
         weather = fetch_weather(lat, lon, req.year, req.season)
-
-        # 3. Prepare input for model
         input_dict = req.dict()
-        input_dict.update(weather)
-
-        # 4. Predict
+        input_dict.update(weather["summary"])  # feed only summary to model
         prediction = predict_yield(input_dict)
-
-        return PredictionResponse(
-            predicted_yield=round(prediction, 2),
-            model_version=MODEL_VERSION,
-            weather_used=weather
-        )
+        return {
+            "predicted_yield": round(prediction, 2),
+            "model_version": MODEL_VERSION,
+            "weather_used": weather
+        }
     except HTTPException:
         raise
     except Exception as e:
