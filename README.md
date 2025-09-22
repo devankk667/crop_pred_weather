@@ -16,7 +16,7 @@ A machine learning model for predicting crop yields based on weather, soil, and 
 | **MAE** | 0.6778 tons/ha | The average absolute error is 0.68 tons/ha |
 
 ### Feature Importance
-![Feature Importance](https://raw.githubusercontent.com/devankk667/crop_pred_weather/main/models/best_model/feature_importance.png)
+![Feature Importance](https://github.com/devankk667/crop_pred_weather/blob/main/backend/models/best_model/feature_importance.png)
 
 The feature importance plot shows which factors most influence crop yield predictions. Key observations:
 - **Top Features**: 
@@ -26,7 +26,7 @@ The feature importance plot shows which factors most influence crop yield predic
   - `season`: Growing season plays a crucial role
 
 ### Prediction Accuracy
-![Actual vs Predicted](https://raw.githubusercontent.com/devankk667/crop_pred_weather/main/models/best_model/actual_vs_predicted.png)
+![Actual vs Predicted](https://github.com/devankk667/crop_pred_weather/blob/main/backend/models/best_model/actual_vs_predicted.png)
 
 The actual vs. predicted plot demonstrates the model's performance:
 - Points close to the red line indicate accurate predictions
