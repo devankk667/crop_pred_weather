@@ -193,43 +193,40 @@ Clone the repository:
 
 ```
 crop_pred_weather/
-├── backend/                                    # Backend API directory
-│   ├── models/                                 # Machine learning models
-│   │   └── best_model/                         # Best performing model artifacts
-│   │       ├── xgboost_model.joblib           # Trained XGBoost model
-│   │       └── preprocessing_objects.joblib   # Preprocessing pipeline objects
-│   │
-│   ├── main.py                                 # FastAPI main application
-│   ├── model.py                                # Model loading and prediction logic
-│   ├── schemas.py                              # Pydantic data models/schemas
-│   └── requirements.txt                        # Backend dependencies
-│
-├── data/                                       # Data directory
-│   └── processed/                              # Processed datasets
+├── backend/
+│   ├── models/
+│   │   └── best_model/
+│   │       ├── xgboost_model.joblib
+│   │       └── preprocessing_objects.joblib
+│   ├── main.py
+│   ├── model.py
+│   ├── schemas.py
+│   └── requirements.txt
+├── data/
+│   └── processed/
 │       └── [cleaned and preprocessed data files]
-│
-├── notebooks/                                  # Jupyter notebooks for analysis
-│   ├── agricultural_analysis.ipynb            # Data analysis and EDA notebook
-│   └── enhanced_visualizations.py             # Advanced visualization scripts
-│
-├── scripts/                                    # Utility and helper scripts
-│   ├── fetch_weather_data.py                  # Weather data collection script
-│   ├── nasa_weather.py                        # NASA weather API integration
-│   └── cleanup_files_fixed.py                 # Data cleaning utility
-│
-├── tests/                                      # Testing suite
-│   ├── test_model.py                           # Model functionality tests
-│   ├── test_predictions_final.py              # Final prediction validation
-│   ├── test_model_predictions.py              # Model prediction tests
-│   ├── debug_preprocessing.py                 # Preprocessing debugging
-│   └── final_model_test.py                    # Comprehensive model testing
-│
-├── app.py                                      # Legacy FastAPI web application
-├── train_best_model.py                        # Model training pipeline
-├── requirements.txt                           # Root project dependencies
-├── Dockerfile                                 # Container configuration
-├── README.md                                  # Project documentation
-└── LICENSE                                    # MIT License
+├── notebooks/
+│   ├── agricultural_analysis.ipynb
+│   └── enhanced_visualizations.py
+├── scripts/
+│   ├── fetch_weather_data.py
+│   ├── nasa_weather.py
+│   └── cleanup_files_fixed.py
+├── tests/
+│   ├── test_model.py
+│   ├── test_predictions_final.py
+│   ├── test_model_predictions.py
+│   ├── debug_preprocessing.py
+│   └── final_model_test.py
+├── frontend/
+│   ├── index.html
+│   └── script.js
+├── app.py
+├── train_best_model.py
+├── requirements.txt
+├── Dockerfile
+├── README.md
+└── LICENSE
 ```
 
 ### Key Files
